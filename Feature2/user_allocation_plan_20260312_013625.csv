@@ -1,0 +1,935 @@
+id,stateid,state_name,uplift_pct,cost,Comment,cash_transfer,training_program,nrega_program
+241903211,24,Tripura,24.95%,10500,Uplifted 24.95% in Tripura due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+220701111,22,Tamil Nadu,24.39%,10500,Uplifted 24.39% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+201201241,20,Punjab,23.33%,10500,Uplifted 23.33% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+96502100,9,Himachal Pradesh,23.02%,8400,Uplifted 23.02% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+30103111,3,Assam,22.8%,10500,Uplifted 22.8% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+234202113,23,Telangana,21.63%,10500,Uplifted 21.63% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+210607100,21,Rajasthan,21.28%,10500,Uplifted 21.28% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+220906100,22,Tamil Nadu,21.1%,10500,Uplifted 21.1% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+273003121,27,West Bengal,21.07%,10500,Uplifted 21.07% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+300104200,30,Dadra and Nagar Haveli,21.0%,8500,Uplifted 21.0% in Dadra and Nagar Haveli due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+181707200,18,Nagaland,20.96%,10500,Uplifted 20.96% in Nagaland due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+270602112,27,West Bengal,20.88%,10500,Uplifted 20.88% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+103206200,10,Jharkhand,20.86%,8400,Uplifted 20.86% in Jharkhand due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+180610100,18,Nagaland,20.64%,8500,Uplifted 20.64% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190907200,19,Odisha,20.56%,10500,Uplifted 20.56% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+212105100,21,Rajasthan,20.52%,10500,Uplifted 20.52% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2013070101,20,Punjab,20.52%,8500,Uplifted 20.52% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2211020111,22,Tamil Nadu,20.33%,8500,Uplifted 20.33% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+221301111,22,Tamil Nadu,20.32%,10500,Uplifted 20.32% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+230505114,23,Telangana,20.09%,8500,Uplifted 20.09% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+231706200,23,Telangana,19.97%,10500,Uplifted 19.97% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2201010111,22,Tamil Nadu,19.8%,8500,Uplifted 19.8% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+233602111,23,Telangana,19.74%,8500,Uplifted 19.74% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+272607200,27,West Bengal,19.65%,10500,Uplifted 19.65% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+211802211,21,Rajasthan,19.52%,8500,Uplifted 19.52% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+71025100,7,Gujarat,19.41%,10500,Uplifted 19.41% in Gujarat due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+1806060101,18,Nagaland,19.39%,6400,Uplifted 19.39% in Nagaland due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+60906200,6,Goa,19.3%,8500,Uplifted 19.3% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+95104100,9,Himachal Pradesh,19.25%,10500,Uplifted 19.25% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+331504111,33,Lakshadweep,19.17%,10500,Uplifted 19.17% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+712020102,7,Gujarat,19.12%,10500,Uplifted 19.12% in Gujarat due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+30201111,3,Assam,19.03%,10500,Uplifted 19.03% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+190607100,19,Odisha,19.01%,10500,Uplifted 19.01% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+95905200,9,Himachal Pradesh,18.95%,8500,Uplifted 18.95% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2312010111,23,Telangana,18.94%,6400,Uplifted 18.94% in Telangana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+210803111,21,Rajasthan,18.92%,10500,Uplifted 18.92% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+31111221,3,Assam,18.89%,10500,Uplifted 18.89% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+170002200,17,Mizoram,18.7%,10500,Uplifted 18.7% in Mizoram due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+710010109,7,Gujarat,18.67%,10500,Uplifted 18.67% in Gujarat due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+96701311,9,Himachal Pradesh,18.62%,8500,Uplifted 18.62% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1802080101,18,Nagaland,18.59%,8500,Uplifted 18.59% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+94908100,9,Himachal Pradesh,18.57%,8500,Uplifted 18.57% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+120001100,12,Kerala,18.52%,10500,Uplifted 18.52% in Kerala due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2801070101,28,Andaman and Nicobar Islands,18.5%,10500,Uplifted 18.5% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+200207100,20,Punjab,18.49%,10500,Uplifted 18.49% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+272002111,27,West Bengal,18.43%,10500,Uplifted 18.43% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+210701112,21,Rajasthan,18.36%,10500,Uplifted 18.36% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2415040111,24,Tripura,18.34%,8500,Uplifted 18.34% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+170006100,17,Mizoram,18.34%,8500,Uplifted 18.34% in Mizoram due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+234103100,23,Telangana,18.3%,8500,Uplifted 18.3% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+210802311,21,Rajasthan,18.29%,8400,Uplifted 18.29% in Rajasthan due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+272706200,27,West Bengal,18.29%,8500,Uplifted 18.29% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2702050101,27,West Bengal,18.23%,8500,Uplifted 18.23% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+170001100,17,Mizoram,18.18%,8500,Uplifted 18.18% in Mizoram due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2421040111,24,Tripura,18.09%,8500,Uplifted 18.09% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+92001100,9,Himachal Pradesh,18.07%,6400,Uplifted 18.07% in Himachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+331502211,33,Lakshadweep,18.03%,6400,Uplifted 18.03% in Lakshadweep due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+90107100,9,Himachal Pradesh,18.02%,8500,Uplifted 18.02% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2206020201,22,Tamil Nadu,18.02%,6400,Uplifted 18.02% in Tamil Nadu due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+272703111,27,West Bengal,18.0%,10500,Uplifted 18.0% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+191108100,19,Odisha,18.0%,8500,Uplifted 18.0% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2708030101,27,West Bengal,18.0%,8500,Uplifted 18.0% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+292533211,29,Chandigarh,17.95%,10500,Uplifted 17.95% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+331009311,33,Lakshadweep,17.9%,10500,Uplifted 17.9% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+90301111,9,Himachal Pradesh,17.9%,8500,Uplifted 17.9% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+30501111,3,Assam,17.78%,7000,Uplifted 17.78% in Assam due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+80603111,8,Haryana,17.73%,10500,Uplifted 17.73% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+81506100,8,Haryana,17.7%,6400,Uplifted 17.7% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+241201111,24,Tripura,17.69%,10500,Uplifted 17.69% in Tripura due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2210090101,22,Tamil Nadu,17.68%,7000,Uplifted 17.68% in Tamil Nadu due to Cash Transfer (1000) for 7 months.,1000,0,0
+180608200,18,Nagaland,17.66%,10500,Uplifted 17.66% in Nagaland due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+232308100,23,Telangana,17.63%,8500,Uplifted 17.63% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+272001111,27,West Bengal,17.6%,10500,Uplifted 17.6% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+221007100,22,Tamil Nadu,17.59%,8500,Uplifted 17.59% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+20105100,2,Arunachal Pradesh,17.54%,10500,Uplifted 17.54% in Arunachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+311070101,3,Assam,17.51%,9000,Uplifted 17.51% in Assam due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+241908100,24,Tripura,17.48%,10500,Uplifted 17.48% in Tripura due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2905350111,29,Chandigarh,17.47%,10500,Uplifted 17.47% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+1204060201,12,Kerala,17.46%,7000,Uplifted 17.46% in Kerala due to Cash Transfer (1000) for 7 months.,1000,0,0
+211404111,21,Rajasthan,17.42%,6400,Uplifted 17.42% in Rajasthan due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+212402111,21,Rajasthan,17.37%,10500,Uplifted 17.37% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+321102311,32,Delhi,17.37%,10500,Uplifted 17.37% in Delhi due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+160009200,16,Meghalaya,17.32%,8500,Uplifted 17.32% in Meghalaya due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+92408200,9,Himachal Pradesh,17.31%,8500,Uplifted 17.31% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2101010101,21,Rajasthan,17.27%,10500,Uplifted 17.27% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+180601200,18,Nagaland,17.26%,10500,Uplifted 17.26% in Nagaland due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+180603200,18,Nagaland,17.25%,8500,Uplifted 17.25% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1204070201,12,Kerala,17.24%,7000,Uplifted 17.24% in Kerala due to Cash Transfer (1000) for 7 months.,1000,0,0
+710250101,7,Gujarat,17.24%,9000,Uplifted 17.24% in Gujarat due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+2917010201,29,Chandigarh,17.23%,8500,Uplifted 17.23% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1806080102,18,Nagaland,17.19%,8500,Uplifted 17.19% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1104040109,11,Karnataka,17.13%,8500,Uplifted 17.13% in Karnataka due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+273108100,27,West Bengal,17.11%,10500,Uplifted 17.11% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+83201112,8,Haryana,17.1%,8500,Uplifted 17.1% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+120005200,12,Kerala,17.09%,5600,Uplifted 17.09% in Kerala due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 7 months.,300,1,1
+3329060101,33,Lakshadweep,17.08%,8400,Uplifted 17.08% in Lakshadweep due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+291935211,29,Chandigarh,17.02%,10500,Uplifted 17.02% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+190708200,19,Odisha,17.01%,8500,Uplifted 17.01% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2714070101,27,West Bengal,17.01%,7000,Uplifted 17.01% in West Bengal due to Cash Transfer (1000) for 7 months.,1000,0,0
+2726060101,27,West Bengal,17.01%,8500,Uplifted 17.01% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+903010111,9,Himachal Pradesh,16.99%,10500,Uplifted 16.99% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+181701100,18,Nagaland,16.97%,8500,Uplifted 16.97% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+30704111,3,Assam,16.96%,7000,Uplifted 16.96% in Assam due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+212801200,21,Rajasthan,16.91%,8500,Uplifted 16.91% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2014080201,20,Punjab,16.91%,8500,Uplifted 16.91% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+82605200,8,Haryana,16.9%,8500,Uplifted 16.9% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+230802111,23,Telangana,16.9%,8500,Uplifted 16.9% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+282304111,28,Andaman and Nicobar Islands,16.89%,5600,Uplifted 16.89% in Andaman and Nicobar Islands due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 7 months.,300,1,1
+2215050202,22,Tamil Nadu,16.88%,8500,Uplifted 16.88% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+102204200,10,Jharkhand,16.88%,10500,Uplifted 16.88% in Jharkhand due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+81801100,8,Haryana,16.88%,6400,Uplifted 16.88% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2315020101,23,Telangana,16.85%,8500,Uplifted 16.85% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+271805200,27,West Bengal,16.81%,10500,Uplifted 16.81% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+211906100,21,Rajasthan,16.73%,8400,Uplifted 16.73% in Rajasthan due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2323010211,23,Telangana,16.73%,8500,Uplifted 16.73% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2338030101,23,Telangana,16.72%,8500,Uplifted 16.72% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2204060101,22,Tamil Nadu,16.71%,8500,Uplifted 16.71% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+201707200,20,Punjab,16.64%,8500,Uplifted 16.64% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+280107100,28,Andaman and Nicobar Islands,16.62%,10500,Uplifted 16.62% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2017080101,20,Punjab,16.61%,8500,Uplifted 16.61% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+815020111,8,Haryana,16.6%,8500,Uplifted 16.6% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+805060101,8,Haryana,16.59%,8500,Uplifted 16.59% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+241504111,24,Tripura,16.56%,8500,Uplifted 16.56% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190709100,19,Odisha,16.5%,10500,Uplifted 16.5% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+96506100,9,Himachal Pradesh,16.47%,8500,Uplifted 16.47% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+21006200,2,Arunachal Pradesh,16.45%,3500,Uplifted 16.45% in Arunachal Pradesh due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+1909120101,19,Odisha,16.44%,8500,Uplifted 16.44% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+292536211,29,Chandigarh,16.44%,8500,Uplifted 16.44% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+923070101,9,Himachal Pradesh,16.44%,8500,Uplifted 16.44% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+618030131,6,Goa,16.4%,8500,Uplifted 16.4% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+96701111,9,Himachal Pradesh,16.4%,10500,Uplifted 16.4% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+305050101,3,Assam,16.39%,8400,Uplifted 16.39% in Assam due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+60801111,6,Goa,16.38%,9000,Uplifted 16.38% in Goa due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+331601111,33,Lakshadweep,16.37%,10500,Uplifted 16.37% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2209010221,22,Tamil Nadu,16.36%,8400,Uplifted 16.36% in Tamil Nadu due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+1912040101,19,Odisha,16.36%,8500,Uplifted 16.36% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+281601112,28,Andaman and Nicobar Islands,16.36%,8500,Uplifted 16.36% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+230504111,23,Telangana,16.35%,8500,Uplifted 16.35% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+230505111,23,Telangana,16.33%,8500,Uplifted 16.33% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+211802311,21,Rajasthan,16.28%,8500,Uplifted 16.28% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+301100101,3,Assam,16.27%,9000,Uplifted 16.27% in Assam due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+2701010111,27,West Bengal,16.26%,8500,Uplifted 16.26% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+101407100,10,Jharkhand,16.26%,8400,Uplifted 16.26% in Jharkhand due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+10302100,1,Andhra Pradesh,16.25%,10500,Uplifted 16.25% in Andhra Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2325100101,23,Telangana,16.21%,8500,Uplifted 16.21% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+273107100,27,West Bengal,16.2%,8500,Uplifted 16.2% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+231307100,23,Telangana,16.2%,8500,Uplifted 16.2% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+290537111,29,Chandigarh,16.19%,3500,Uplifted 16.19% in Chandigarh due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+60501211,6,Goa,16.18%,6400,Uplifted 16.18% in Goa due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+211509111,21,Rajasthan,16.15%,10500,Uplifted 16.15% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+230506200,23,Telangana,16.13%,8500,Uplifted 16.13% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+180608100,18,Nagaland,16.11%,8500,Uplifted 16.11% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+30905100,3,Assam,16.09%,7000,Uplifted 16.09% in Assam due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+1806020201,18,Nagaland,16.07%,8500,Uplifted 16.07% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+211805221,21,Rajasthan,16.07%,10500,Uplifted 16.07% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+291203100,29,Chandigarh,16.06%,10500,Uplifted 16.06% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+212906200,21,Rajasthan,16.06%,8500,Uplifted 16.06% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+273002213,27,West Bengal,16.05%,8500,Uplifted 16.05% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+81304111,8,Haryana,16.04%,8500,Uplifted 16.04% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+113140101,1,Andhra Pradesh,15.99%,3500,Uplifted 15.99% in Andhra Pradesh due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+180603100,18,Nagaland,15.98%,10500,Uplifted 15.98% in Nagaland due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2917020102,29,Chandigarh,15.95%,8500,Uplifted 15.95% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+815010121,8,Haryana,15.94%,8500,Uplifted 15.94% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+95903200,9,Himachal Pradesh,15.94%,8500,Uplifted 15.94% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1910100101,19,Odisha,15.91%,7000,Uplifted 15.91% in Odisha due to Cash Transfer (1000) for 7 months.,1000,0,0
+2014080101,20,Punjab,15.9%,6400,Uplifted 15.9% in Punjab due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+234202111,23,Telangana,15.89%,8500,Uplifted 15.89% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+95405100,9,Himachal Pradesh,15.89%,8400,Uplifted 15.89% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2731010112,27,West Bengal,15.89%,8500,Uplifted 15.89% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3304050101,33,Lakshadweep,15.87%,7000,Uplifted 15.87% in Lakshadweep due to Cash Transfer (1000) for 7 months.,1000,0,0
+120009200,12,Kerala,15.87%,10500,Uplifted 15.87% in Kerala due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+190906113,19,Odisha,15.83%,8500,Uplifted 15.83% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+212901111,21,Rajasthan,15.82%,8400,Uplifted 15.82% in Rajasthan due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+180207100,18,Nagaland,15.82%,8500,Uplifted 15.82% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+291604200,29,Chandigarh,15.82%,10500,Uplifted 15.82% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+3205110101,32,Delhi,15.82%,7000,Uplifted 15.82% in Delhi due to Cash Transfer (1000) for 7 months.,1000,0,0
+232303121,23,Telangana,15.81%,8500,Uplifted 15.81% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1817070101,18,Nagaland,15.79%,8500,Uplifted 15.79% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1032050201,10,Jharkhand,15.79%,8500,Uplifted 15.79% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+707010101,7,Gujarat,15.79%,10500,Uplifted 15.79% in Gujarat due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2912030102,29,Chandigarh,15.77%,6400,Uplifted 15.77% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+212106100,21,Rajasthan,15.76%,10500,Uplifted 15.76% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+311040212,3,Assam,15.75%,8500,Uplifted 15.75% in Assam due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+230801112,23,Telangana,15.74%,8500,Uplifted 15.74% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2344070202,23,Telangana,15.73%,8500,Uplifted 15.73% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+11204100,1,Andhra Pradesh,15.72%,10500,Uplifted 15.72% in Andhra Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+60502111,6,Goa,15.71%,5000,Uplifted 15.71% in Goa due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+90405200,9,Himachal Pradesh,15.69%,8500,Uplifted 15.69% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+232301111,23,Telangana,15.68%,8500,Uplifted 15.68% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+320514111,32,Delhi,15.67%,8400,Uplifted 15.67% in Delhi due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2913060201,29,Chandigarh,15.66%,8500,Uplifted 15.66% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+140001100,14,Maharashtra,15.65%,8500,Uplifted 15.65% in Maharashtra due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+100504111,10,Jharkhand,15.65%,10500,Uplifted 15.65% in Jharkhand due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+316070201,3,Assam,15.62%,8400,Uplifted 15.62% in Assam due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2911040201,29,Chandigarh,15.56%,4900,Uplifted 15.56% in Chandigarh due to Cash Transfer (700) for 7 months.,700,0,0
+232006100,23,Telangana,15.56%,6400,Uplifted 15.56% in Telangana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+1901070101,19,Odisha,15.55%,8500,Uplifted 15.55% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+962020101,9,Himachal Pradesh,15.53%,7000,Uplifted 15.53% in Himachal Pradesh due to Cash Transfer (1000) for 7 months.,1000,0,0
+271407200,27,West Bengal,15.52%,6400,Uplifted 15.52% in West Bengal due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+241908200,24,Tripura,15.47%,10500,Uplifted 15.47% in Tripura due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+211501111,21,Rajasthan,15.47%,10500,Uplifted 15.47% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+824080201,8,Haryana,15.44%,8500,Uplifted 15.44% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+181706100,18,Nagaland,15.43%,10500,Uplifted 15.43% in Nagaland due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+211703100,21,Rajasthan,15.4%,8500,Uplifted 15.4% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+332307100,33,Lakshadweep,15.38%,10500,Uplifted 15.38% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+233701111,23,Telangana,15.33%,10500,Uplifted 15.33% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2911030201,29,Chandigarh,15.33%,8500,Uplifted 15.33% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+20511111,2,Arunachal Pradesh,15.32%,10500,Uplifted 15.32% in Arunachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+242004211,24,Tripura,15.3%,7000,Uplifted 15.3% in Tripura due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+804020111,8,Haryana,15.29%,8500,Uplifted 15.29% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+82007200,8,Haryana,15.29%,6400,Uplifted 15.29% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+10506200,1,Andhra Pradesh,15.28%,10500,Uplifted 15.28% in Andhra Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+618060203,6,Goa,15.27%,5000,Uplifted 15.27% in Goa due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+2924080101,29,Chandigarh,15.25%,8400,Uplifted 15.25% in Chandigarh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+96801211,9,Himachal Pradesh,15.25%,5000,Uplifted 15.25% in Himachal Pradesh due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+80901111,8,Haryana,15.23%,6400,Uplifted 15.23% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+825020112,8,Haryana,15.23%,6400,Uplifted 15.23% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+291202100,29,Chandigarh,15.23%,10500,Uplifted 15.23% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+190601133,19,Odisha,15.22%,8500,Uplifted 15.22% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2308050102,23,Telangana,15.21%,8500,Uplifted 15.21% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1911080201,19,Odisha,15.21%,8500,Uplifted 15.21% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+31111211,3,Assam,15.19%,8500,Uplifted 15.19% in Assam due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+82004111,8,Haryana,15.19%,10500,Uplifted 15.19% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2128010201,21,Rajasthan,15.12%,8500,Uplifted 15.12% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+320906200,32,Delhi,15.11%,10500,Uplifted 15.11% in Delhi due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+320705100,32,Delhi,15.11%,7000,Uplifted 15.11% in Delhi due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+96502200,9,Himachal Pradesh,15.11%,10500,Uplifted 15.11% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2725140101,27,West Bengal,15.11%,10500,Uplifted 15.11% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+3330090101,33,Lakshadweep,15.1%,7000,Uplifted 15.1% in Lakshadweep due to Cash Transfer (1000) for 7 months.,1000,0,0
+2316060101,23,Telangana,15.07%,7000,Uplifted 15.07% in Telangana due to Cash Transfer (1000) for 7 months.,1000,0,0
+2906010201,29,Chandigarh,15.05%,8500,Uplifted 15.05% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+82403212,8,Haryana,15.05%,10500,Uplifted 15.05% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+305020111,3,Assam,15.02%,8500,Uplifted 15.02% in Assam due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2109010311,21,Rajasthan,14.99%,10500,Uplifted 14.99% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+930010101,9,Himachal Pradesh,14.99%,8500,Uplifted 14.99% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2309040111,23,Telangana,14.97%,8500,Uplifted 14.97% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+200206100,20,Punjab,14.96%,8500,Uplifted 14.96% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+210701111,21,Rajasthan,14.96%,10500,Uplifted 14.96% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+807030112,8,Haryana,14.96%,8500,Uplifted 14.96% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190103111,19,Odisha,14.96%,8500,Uplifted 14.96% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+96504100,9,Himachal Pradesh,14.94%,10500,Uplifted 14.94% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+212402222,21,Rajasthan,14.93%,8500,Uplifted 14.93% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2103020112,21,Rajasthan,14.93%,8500,Uplifted 14.93% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3309030101,33,Lakshadweep,14.92%,8400,Uplifted 14.92% in Lakshadweep due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+94906100,9,Himachal Pradesh,14.92%,10500,Uplifted 14.92% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+200207200,20,Punjab,14.91%,10500,Uplifted 14.91% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+281007100,28,Andaman and Nicobar Islands,14.91%,8500,Uplifted 14.91% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3305040111,33,Lakshadweep,14.91%,6400,Uplifted 14.91% in Lakshadweep due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2415010111,24,Tripura,14.9%,7000,Uplifted 14.9% in Tripura due to Cash Transfer (1000) for 7 months.,1000,0,0
+2725050111,27,West Bengal,14.9%,8500,Uplifted 14.9% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+230205100,23,Telangana,14.9%,8500,Uplifted 14.9% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+90602200,9,Himachal Pradesh,14.9%,10500,Uplifted 14.9% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+311030212,3,Assam,14.89%,9000,Uplifted 14.89% in Assam due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+221002211,22,Tamil Nadu,14.89%,10500,Uplifted 14.89% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2907020201,29,Chandigarh,14.89%,8400,Uplifted 14.89% in Chandigarh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+832080201,8,Haryana,14.89%,8500,Uplifted 14.89% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+101401111,10,Jharkhand,14.87%,10500,Uplifted 14.87% in Jharkhand due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+180208200,18,Nagaland,14.85%,8500,Uplifted 14.85% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1909070201,19,Odisha,14.84%,8500,Uplifted 14.84% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2210070102,22,Tamil Nadu,14.84%,8400,Uplifted 14.84% in Tamil Nadu due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+191107100,19,Odisha,14.82%,10500,Uplifted 14.82% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+201303200,20,Punjab,14.82%,10500,Uplifted 14.82% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+280402111,28,Andaman and Nicobar Islands,14.82%,8500,Uplifted 14.82% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+210702111,21,Rajasthan,14.8%,5000,Uplifted 14.8% in Rajasthan due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+3315040311,33,Lakshadweep,14.79%,8500,Uplifted 14.79% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2912060101,29,Chandigarh,14.78%,6400,Uplifted 14.78% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+50906200,5,Chhattisgarh,14.77%,10500,Uplifted 14.77% in Chhattisgarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+90508100,9,Himachal Pradesh,14.77%,10500,Uplifted 14.77% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+302060101,3,Assam,14.77%,8500,Uplifted 14.77% in Assam due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2421030201,24,Tripura,14.77%,8500,Uplifted 14.77% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+92904200,9,Himachal Pradesh,14.77%,8500,Uplifted 14.77% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+80604111,8,Haryana,14.77%,8500,Uplifted 14.77% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+204020111,2,Arunachal Pradesh,14.76%,7000,Uplifted 14.76% in Arunachal Pradesh due to Cash Transfer (1000) for 7 months.,1000,0,0
+282007100,28,Andaman and Nicobar Islands,14.75%,8500,Uplifted 14.75% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+82501111,8,Haryana,14.73%,6400,Uplifted 14.73% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+231001111,23,Telangana,14.73%,8500,Uplifted 14.73% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2803080101,28,Andaman and Nicobar Islands,14.73%,8500,Uplifted 14.73% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2312040111,23,Telangana,14.72%,10500,Uplifted 14.72% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+101405111,10,Jharkhand,14.7%,8500,Uplifted 14.7% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+617060101,6,Goa,14.7%,8400,Uplifted 14.7% in Goa due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+1602030101,16,Meghalaya,14.7%,8500,Uplifted 14.7% in Meghalaya due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2822060101,28,Andaman and Nicobar Islands,14.69%,10500,Uplifted 14.69% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2927030201,29,Chandigarh,14.68%,4900,Uplifted 14.68% in Chandigarh due to Cash Transfer (700) for 7 months.,700,0,0
+95002100,9,Himachal Pradesh,14.68%,10500,Uplifted 14.68% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+11204200,1,Andhra Pradesh,14.68%,7000,Uplifted 14.68% in Andhra Pradesh due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+2804020111,28,Andaman and Nicobar Islands,14.65%,8500,Uplifted 14.65% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+92407100,9,Himachal Pradesh,14.65%,8500,Uplifted 14.65% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+281003112,28,Andaman and Nicobar Islands,14.65%,10500,Uplifted 14.65% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+81503111,8,Haryana,14.64%,10500,Uplifted 14.64% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2106070201,21,Rajasthan,14.64%,8400,Uplifted 14.64% in Rajasthan due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+81501111,8,Haryana,14.63%,6400,Uplifted 14.63% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2721130101,27,West Bengal,14.62%,7000,Uplifted 14.62% in West Bengal due to Cash Transfer (1000) for 7 months.,1000,0,0
+233506100,23,Telangana,14.61%,8500,Uplifted 14.61% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+233701122,23,Telangana,14.61%,8500,Uplifted 14.61% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2732040111,27,West Bengal,14.6%,6400,Uplifted 14.6% in West Bengal due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+3309010101,33,Lakshadweep,14.59%,10500,Uplifted 14.59% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+232303231,23,Telangana,14.59%,8500,Uplifted 14.59% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+81501141,8,Haryana,14.58%,10500,Uplifted 14.58% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+290531111,29,Chandigarh,14.57%,10500,Uplifted 14.57% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+311120111,3,Assam,14.52%,10500,Uplifted 14.52% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+190101112,19,Odisha,14.51%,8500,Uplifted 14.51% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+94502211,9,Himachal Pradesh,14.51%,10500,Uplifted 14.51% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+505050101,5,Chhattisgarh,14.5%,8500,Uplifted 14.5% in Chhattisgarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+210901111,21,Rajasthan,14.49%,10500,Uplifted 14.49% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+708010201,7,Gujarat,14.49%,10500,Uplifted 14.49% in Gujarat due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+210811111,21,Rajasthan,14.47%,10500,Uplifted 14.47% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+824030212,8,Haryana,14.47%,8500,Uplifted 14.47% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+211803200,21,Rajasthan,14.46%,8500,Uplifted 14.46% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+965080101,9,Himachal Pradesh,14.46%,8500,Uplifted 14.46% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+90102112,9,Himachal Pradesh,14.45%,8500,Uplifted 14.45% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2210050101,22,Tamil Nadu,14.44%,6400,Uplifted 14.44% in Tamil Nadu due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2017080102,20,Punjab,14.44%,4900,Uplifted 14.44% in Punjab due to Cash Transfer (700) for 7 months.,700,0,0
+2308060101,23,Telangana,14.44%,8500,Uplifted 14.44% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+83207200,8,Haryana,14.44%,6400,Uplifted 14.44% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+94903100,9,Himachal Pradesh,14.44%,8500,Uplifted 14.44% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+180606200,18,Nagaland,14.43%,8500,Uplifted 14.43% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+212801100,21,Rajasthan,14.42%,10500,Uplifted 14.42% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+291007200,29,Chandigarh,14.4%,10500,Uplifted 14.4% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+210201111,21,Rajasthan,14.39%,6400,Uplifted 14.39% in Rajasthan due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+513020111,5,Chhattisgarh,14.39%,8500,Uplifted 14.39% in Chhattisgarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2919350211,29,Chandigarh,14.39%,5000,Uplifted 14.39% in Chandigarh due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+923050101,9,Himachal Pradesh,14.39%,8500,Uplifted 14.39% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+95404100,9,Himachal Pradesh,14.38%,10500,Uplifted 14.38% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+191104111,19,Odisha,14.38%,10500,Uplifted 14.38% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+95902100,9,Himachal Pradesh,14.38%,8500,Uplifted 14.38% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+30502111,3,Assam,14.38%,10500,Uplifted 14.38% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2107030111,21,Rajasthan,14.34%,10500,Uplifted 14.34% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+190601132,19,Odisha,14.33%,8500,Uplifted 14.33% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2105080202,21,Rajasthan,14.3%,8500,Uplifted 14.3% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+273003113,27,West Bengal,14.3%,8500,Uplifted 14.3% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2804060101,28,Andaman and Nicobar Islands,14.29%,8500,Uplifted 14.29% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2723070101,27,West Bengal,14.28%,7000,Uplifted 14.28% in West Bengal due to Cash Transfer (1000) for 7 months.,1000,0,0
+2907060101,29,Chandigarh,14.28%,8500,Uplifted 14.28% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+965010201,9,Himachal Pradesh,14.26%,10500,Uplifted 14.26% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2207010131,22,Tamil Nadu,14.26%,8400,Uplifted 14.26% in Tamil Nadu due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+290206100,29,Chandigarh,14.25%,7000,Uplifted 14.25% in Chandigarh due to Cash Transfer (1000) for 7 months.,1000,0,0
+90507100,9,Himachal Pradesh,14.24%,8500,Uplifted 14.24% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+320904100,32,Delhi,14.24%,10500,Uplifted 14.24% in Delhi due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+3315050201,33,Lakshadweep,14.24%,8500,Uplifted 14.24% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+80611100,8,Haryana,14.23%,9000,Uplifted 14.23% in Haryana due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+806110101,8,Haryana,14.23%,8500,Uplifted 14.23% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+331218200,33,Lakshadweep,14.23%,6400,Uplifted 14.23% in Lakshadweep due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+31101111,3,Assam,14.23%,10500,Uplifted 14.23% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+813090101,8,Haryana,14.22%,10500,Uplifted 14.22% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+210703111,21,Rajasthan,14.22%,10500,Uplifted 14.22% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+83208200,8,Haryana,14.21%,8500,Uplifted 14.21% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2013090101,20,Punjab,14.2%,6400,Uplifted 14.2% in Punjab due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+292104100,29,Chandigarh,14.19%,6900,Uplifted 14.19% in Chandigarh due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+2422050101,24,Tripura,14.18%,4900,Uplifted 14.18% in Tripura due to Cash Transfer (700) for 7 months.,700,0,0
+2714060102,27,West Bengal,14.17%,10500,Uplifted 14.17% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+305050201,3,Assam,14.17%,7000,Uplifted 14.17% in Assam due to Cash Transfer (1000) for 7 months.,1000,0,0
+273204111,27,West Bengal,14.17%,8400,Uplifted 14.17% in West Bengal due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+331203200,33,Lakshadweep,14.15%,8500,Uplifted 14.15% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2909010103,29,Chandigarh,14.14%,8500,Uplifted 14.14% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1909210111,19,Odisha,14.14%,8500,Uplifted 14.14% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1014070101,10,Jharkhand,14.14%,8500,Uplifted 14.14% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+220703112,22,Tamil Nadu,14.13%,8500,Uplifted 14.13% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2121060101,21,Rajasthan,14.12%,8500,Uplifted 14.12% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+20503222,2,Arunachal Pradesh,14.12%,3500,Uplifted 14.12% in Arunachal Pradesh due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+30106200,3,Assam,14.11%,10500,Uplifted 14.11% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+95102100,9,Himachal Pradesh,14.11%,8500,Uplifted 14.11% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+330102200,33,Lakshadweep,14.1%,8500,Uplifted 14.1% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2312080112,23,Telangana,14.1%,8500,Uplifted 14.1% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+232003222,23,Telangana,14.09%,8500,Uplifted 14.09% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+130003200,13,Madhya Pradesh,14.08%,3500,Uplifted 14.08% in Madhya Pradesh due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+160001100,16,Meghalaya,14.08%,7000,Uplifted 14.08% in Meghalaya due to Cash Transfer (1000) for 7 months.,1000,0,0
+221505200,22,Tamil Nadu,14.08%,8500,Uplifted 14.08% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+250003200,25,Uttar Pradesh,14.07%,10500,Uplifted 14.07% in Uttar Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+201201225,20,Punjab,14.07%,10500,Uplifted 14.07% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2410060201,24,Tripura,14.07%,8500,Uplifted 14.07% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3310010111,33,Lakshadweep,14.05%,8500,Uplifted 14.05% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+815010111,8,Haryana,14.05%,8500,Uplifted 14.05% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+290507100,29,Chandigarh,14.04%,6400,Uplifted 14.04% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2013060109,20,Punjab,14.04%,7000,Uplifted 14.04% in Punjab due to Cash Transfer (1000) for 7 months.,1000,0,0
+2118020212,21,Rajasthan,14.04%,6400,Uplifted 14.04% in Rajasthan due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+220601111,22,Tamil Nadu,14.03%,10500,Uplifted 14.03% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+333008100,33,Lakshadweep,14.01%,6900,Uplifted 14.01% in Lakshadweep due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+280302200,28,Andaman and Nicobar Islands,14.01%,8500,Uplifted 14.01% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3324060101,33,Lakshadweep,14.0%,4900,Uplifted 14.0% in Lakshadweep due to Cash Transfer (700) for 7 months.,700,0,0
+2920220109,29,Chandigarh,13.99%,8500,Uplifted 13.99% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+707030101,7,Gujarat,13.98%,9000,Uplifted 13.98% in Gujarat due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+2336030101,23,Telangana,13.98%,8500,Uplifted 13.98% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+929040101,9,Himachal Pradesh,13.97%,8500,Uplifted 13.97% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+232101111,23,Telangana,13.96%,8500,Uplifted 13.96% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+232002121,23,Telangana,13.95%,8400,Uplifted 13.95% in Telangana due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2312070102,23,Telangana,13.93%,6400,Uplifted 13.93% in Telangana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+230805100,23,Telangana,13.92%,8500,Uplifted 13.92% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+230901111,23,Telangana,13.92%,8400,Uplifted 13.92% in Telangana due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+60505111,6,Goa,13.9%,8500,Uplifted 13.9% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2320060101,23,Telangana,13.9%,7000,Uplifted 13.9% in Telangana due to Cash Transfer (1000) for 7 months.,1000,0,0
+270705111,27,West Bengal,13.9%,8500,Uplifted 13.9% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+95406200,9,Himachal Pradesh,13.88%,8500,Uplifted 13.88% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+103203111,10,Jharkhand,13.88%,6400,Uplifted 13.88% in Jharkhand due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+190208200,19,Odisha,13.88%,8500,Uplifted 13.88% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+208060201,2,Arunachal Pradesh,13.88%,8500,Uplifted 13.88% in Arunachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+291802100,29,Chandigarh,13.87%,3500,Uplifted 13.87% in Chandigarh due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+91406100,9,Himachal Pradesh,13.87%,10500,Uplifted 13.87% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+290901200,29,Chandigarh,13.86%,3500,Uplifted 13.86% in Chandigarh due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+282012111,28,Andaman and Nicobar Islands,13.86%,8500,Uplifted 13.86% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+332310100,33,Lakshadweep,13.84%,7000,Uplifted 13.84% in Lakshadweep due to Cash Transfer (1000) for 7 months.,1000,0,0
+340003100,34,Puducherry,13.84%,8500,Uplifted 13.84% in Puducherry due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+80403112,8,Haryana,13.84%,8500,Uplifted 13.84% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+824100101,8,Haryana,13.82%,8500,Uplifted 13.82% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+201201222,20,Punjab,13.82%,10500,Uplifted 13.82% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+170008200,17,Mizoram,13.81%,10500,Uplifted 13.81% in Mizoram due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+80801111,8,Haryana,13.79%,8400,Uplifted 13.79% in Haryana due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+83202112,8,Haryana,13.78%,10500,Uplifted 13.78% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+291403100,29,Chandigarh,13.76%,10500,Uplifted 13.76% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+191002112,19,Odisha,13.76%,8500,Uplifted 13.76% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+60506211,6,Goa,13.75%,6400,Uplifted 13.75% in Goa due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+331506100,33,Lakshadweep,13.75%,7000,Uplifted 13.75% in Lakshadweep due to Cash Transfer (1000) for 7 months.,1000,0,0
+1104030101,11,Karnataka,13.74%,8500,Uplifted 13.74% in Karnataka due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+951020101,9,Himachal Pradesh,13.73%,8500,Uplifted 13.73% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1014010111,10,Jharkhand,13.72%,8500,Uplifted 13.72% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+934030201,9,Himachal Pradesh,13.72%,10500,Uplifted 13.72% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+1802090101,18,Nagaland,13.71%,10500,Uplifted 13.71% in Nagaland due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2320010112,23,Telangana,13.7%,8500,Uplifted 13.7% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+92903100,9,Himachal Pradesh,13.69%,8500,Uplifted 13.69% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+270602233,27,West Bengal,13.67%,9000,Uplifted 13.67% in West Bengal due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+220903111,22,Tamil Nadu,13.67%,10500,Uplifted 13.67% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2917080101,29,Chandigarh,13.66%,4900,Uplifted 13.66% in Chandigarh due to Cash Transfer (700) for 7 months.,700,0,0
+2915040101,29,Chandigarh,13.64%,8500,Uplifted 13.64% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190908100,19,Odisha,13.64%,8500,Uplifted 13.64% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+610010121,6,Goa,13.64%,8500,Uplifted 13.64% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+31112111,3,Assam,13.63%,5600,Uplifted 13.63% in Assam due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 7 months.,300,1,1
+2204050201,22,Tamil Nadu,13.63%,8400,Uplifted 13.63% in Tamil Nadu due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+1908090121,19,Odisha,13.63%,10500,Uplifted 13.63% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+20202221,2,Arunachal Pradesh,13.62%,8400,Uplifted 13.62% in Arunachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2703080101,27,West Bengal,13.62%,8500,Uplifted 13.62% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2207020111,22,Tamil Nadu,13.61%,8500,Uplifted 13.61% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+233507100,23,Telangana,13.61%,8500,Uplifted 13.61% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+130006100,13,Madhya Pradesh,13.6%,10500,Uplifted 13.6% in Madhya Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+813030111,8,Haryana,13.59%,6400,Uplifted 13.59% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+1909140101,19,Odisha,13.59%,4900,Uplifted 13.59% in Odisha due to Cash Transfer (700) for 7 months.,700,0,0
+330506100,33,Lakshadweep,13.58%,8500,Uplifted 13.58% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+273005111,27,West Bengal,13.58%,8500,Uplifted 13.58% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+120007100,12,Kerala,13.57%,8400,Uplifted 13.57% in Kerala due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2204010111,22,Tamil Nadu,13.56%,8500,Uplifted 13.56% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+96507100,9,Himachal Pradesh,13.56%,3600,Uplifted 13.56% in Himachal Pradesh due to Cash Transfer (300) + Nrega Program (1) for 7 months.,300,0,1
+291805200,29,Chandigarh,13.56%,10500,Uplifted 13.56% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2210020211,22,Tamil Nadu,13.56%,8500,Uplifted 13.56% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2305050112,23,Telangana,13.56%,8500,Uplifted 13.56% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+321202200,32,Delhi,13.55%,10500,Uplifted 13.55% in Delhi due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2918050201,29,Chandigarh,13.55%,6400,Uplifted 13.55% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+291904200,29,Chandigarh,13.54%,10500,Uplifted 13.54% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+170008100,17,Mizoram,13.54%,8500,Uplifted 13.54% in Mizoram due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1909180101,19,Odisha,13.53%,8500,Uplifted 13.53% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+210601111,21,Rajasthan,13.53%,10500,Uplifted 13.53% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+966020201,9,Himachal Pradesh,13.53%,10500,Uplifted 13.53% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+281507200,28,Andaman and Nicobar Islands,13.51%,10500,Uplifted 13.51% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+806010113,8,Haryana,13.51%,8500,Uplifted 13.51% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2905330111,29,Chandigarh,13.5%,8500,Uplifted 13.5% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3330070101,33,Lakshadweep,13.5%,8500,Uplifted 13.5% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+806100101,8,Haryana,13.49%,8500,Uplifted 13.49% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+608060201,6,Goa,13.49%,8500,Uplifted 13.49% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2201030102,22,Tamil Nadu,13.47%,8500,Uplifted 13.47% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+232304112,23,Telangana,13.46%,8500,Uplifted 13.46% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190104211,19,Odisha,13.44%,10500,Uplifted 13.44% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+83102100,8,Haryana,13.44%,9000,Uplifted 13.44% in Haryana due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+96701312,9,Himachal Pradesh,13.42%,8500,Uplifted 13.42% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+332913100,33,Lakshadweep,13.41%,9000,Uplifted 13.41% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+3314010101,33,Lakshadweep,13.4%,6400,Uplifted 13.4% in Lakshadweep due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+180206100,18,Nagaland,13.39%,10500,Uplifted 13.39% in Nagaland due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+211902111,21,Rajasthan,13.39%,8400,Uplifted 13.39% in Rajasthan due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+100503121,10,Jharkhand,13.38%,10500,Uplifted 13.38% in Jharkhand due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+191108200,19,Odisha,13.38%,8500,Uplifted 13.38% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+94207100,9,Himachal Pradesh,13.36%,8400,Uplifted 13.36% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+947010201,9,Himachal Pradesh,13.36%,8500,Uplifted 13.36% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+704010209,7,Gujarat,13.36%,8500,Uplifted 13.36% in Gujarat due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190908200,19,Odisha,13.36%,10500,Uplifted 13.36% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+100507100,10,Jharkhand,13.36%,8500,Uplifted 13.36% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+211805111,21,Rajasthan,13.35%,8500,Uplifted 13.35% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3330080201,33,Lakshadweep,13.34%,8500,Uplifted 13.34% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2204070101,22,Tamil Nadu,13.34%,8500,Uplifted 13.34% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+212902100,21,Rajasthan,13.32%,10500,Uplifted 13.32% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2421030101,24,Tripura,13.32%,8500,Uplifted 13.32% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2919050101,29,Chandigarh,13.31%,8500,Uplifted 13.31% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+221504111,22,Tamil Nadu,13.3%,8500,Uplifted 13.3% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+300101200,30,Dadra and Nagar Haveli,13.3%,7000,Uplifted 13.3% in Dadra and Nagar Haveli due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+1908080101,19,Odisha,13.29%,8500,Uplifted 13.29% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+815050112,8,Haryana,13.29%,8400,Uplifted 13.29% in Haryana due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+333011100,33,Lakshadweep,13.26%,9000,Uplifted 13.26% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+211802212,21,Rajasthan,13.26%,8500,Uplifted 13.26% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+270602221,27,West Bengal,13.25%,5600,Uplifted 13.25% in West Bengal due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 7 months.,300,1,1
+2201030101,22,Tamil Nadu,13.25%,8500,Uplifted 13.25% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+220904111,22,Tamil Nadu,13.24%,6400,Uplifted 13.24% in Tamil Nadu due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+1909080201,19,Odisha,13.23%,8500,Uplifted 13.23% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1916060101,19,Odisha,13.23%,8500,Uplifted 13.23% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3310050111,33,Lakshadweep,13.22%,8500,Uplifted 13.22% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+273007200,27,West Bengal,13.21%,8500,Uplifted 13.21% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+60405100,6,Goa,13.21%,10500,Uplifted 13.21% in Goa due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+201403100,20,Punjab,13.21%,8500,Uplifted 13.21% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2114040121,21,Rajasthan,13.2%,10500,Uplifted 13.2% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+270601111,27,West Bengal,13.2%,10500,Uplifted 13.2% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+95902200,9,Himachal Pradesh,13.19%,8500,Uplifted 13.19% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+832070101,8,Haryana,13.17%,10500,Uplifted 13.17% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2421070101,24,Tripura,13.17%,9000,Uplifted 13.17% in Tripura due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+1032080102,10,Jharkhand,13.16%,8500,Uplifted 13.16% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+270203100,27,West Bengal,13.16%,8500,Uplifted 13.16% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190906111,19,Odisha,13.16%,8500,Uplifted 13.16% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1901030111,19,Odisha,13.15%,8500,Uplifted 13.15% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2924040101,29,Chandigarh,13.15%,8500,Uplifted 13.15% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+608010121,6,Goa,13.14%,6400,Uplifted 13.14% in Goa due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+233602222,23,Telangana,13.14%,8500,Uplifted 13.14% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+331401100,33,Lakshadweep,13.12%,10500,Uplifted 13.12% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+190201111,19,Odisha,13.12%,8400,Uplifted 13.12% in Odisha due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2913040101,29,Chandigarh,13.11%,8500,Uplifted 13.11% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+20202111,2,Arunachal Pradesh,13.11%,10500,Uplifted 13.11% in Arunachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+81001111,8,Haryana,13.1%,6900,Uplifted 13.1% in Haryana due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+290603100,29,Chandigarh,13.1%,10500,Uplifted 13.1% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+3315010111,33,Lakshadweep,13.1%,8500,Uplifted 13.1% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+82502111,8,Haryana,13.08%,10500,Uplifted 13.08% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2316040111,23,Telangana,13.08%,8500,Uplifted 13.08% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+612070101,6,Goa,13.07%,7000,Uplifted 13.07% in Goa due to Cash Transfer (1000) for 7 months.,1000,0,0
+3402020101,34,Puducherry,13.05%,8400,Uplifted 13.05% in Puducherry due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+292105200,29,Chandigarh,13.05%,8500,Uplifted 13.05% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+968020201,9,Himachal Pradesh,13.05%,8500,Uplifted 13.05% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+710160109,7,Gujarat,13.05%,9000,Uplifted 13.05% in Gujarat due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+2108020111,21,Rajasthan,13.04%,8500,Uplifted 13.04% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+61905200,6,Goa,13.04%,10500,Uplifted 13.04% in Goa due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+82503100,8,Haryana,13.02%,8500,Uplifted 13.02% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+94505200,9,Himachal Pradesh,13.02%,10500,Uplifted 13.02% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+60405200,6,Goa,13.02%,5600,Uplifted 13.02% in Goa due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 7 months.,300,1,1
+95004100,9,Himachal Pradesh,13.01%,10500,Uplifted 13.01% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+31603111,3,Assam,13.01%,5000,Uplifted 13.01% in Assam due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+2014140101,20,Punjab,13.0%,6400,Uplifted 13.0% in Punjab due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+948020202,9,Himachal Pradesh,12.99%,8500,Uplifted 12.99% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2211050101,22,Tamil Nadu,12.99%,8500,Uplifted 12.99% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+100205111,10,Jharkhand,12.99%,10500,Uplifted 12.99% in Jharkhand due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+230905100,23,Telangana,12.98%,3500,Uplifted 12.98% in Telangana due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+304010101,3,Assam,12.97%,9000,Uplifted 12.97% in Assam due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+818010101,8,Haryana,12.97%,6400,Uplifted 12.97% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+233601221,23,Telangana,12.97%,10500,Uplifted 12.97% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+332307200,33,Lakshadweep,12.96%,10500,Uplifted 12.96% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+212303100,21,Rajasthan,12.96%,8500,Uplifted 12.96% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+815040111,8,Haryana,12.95%,8500,Uplifted 12.95% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1602020209,16,Meghalaya,12.94%,8500,Uplifted 12.94% in Meghalaya due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+231304112,23,Telangana,12.94%,10500,Uplifted 12.94% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+280308100,28,Andaman and Nicobar Islands,12.93%,8400,Uplifted 12.93% in Andaman and Nicobar Islands due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+966030111,9,Himachal Pradesh,12.93%,7000,Uplifted 12.93% in Himachal Pradesh due to Cash Transfer (1000) for 7 months.,1000,0,0
+201708200,20,Punjab,12.93%,8500,Uplifted 12.93% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+290205200,29,Chandigarh,12.92%,5600,Uplifted 12.92% in Chandigarh due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 7 months.,300,1,1
+331009411,33,Lakshadweep,12.92%,10500,Uplifted 12.92% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2821020101,28,Andaman and Nicobar Islands,12.92%,6400,Uplifted 12.92% in Andaman and Nicobar Islands due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+201703211,20,Punjab,12.91%,10500,Uplifted 12.91% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+80502111,8,Haryana,12.9%,6400,Uplifted 12.9% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+50506100,5,Chhattisgarh,12.9%,6900,Uplifted 12.9% in Chhattisgarh due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+2703010221,27,West Bengal,12.89%,6400,Uplifted 12.89% in West Bengal due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+80706200,8,Haryana,12.89%,6400,Uplifted 12.89% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+230504112,23,Telangana,12.87%,8500,Uplifted 12.87% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1809020109,18,Nagaland,12.86%,7000,Uplifted 12.86% in Nagaland due to Cash Transfer (1000) for 7 months.,1000,0,0
+1503010101,15,Manipur,12.85%,10500,Uplifted 12.85% in Manipur due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+231007200,23,Telangana,12.84%,10500,Uplifted 12.84% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+812050102,8,Haryana,12.84%,10500,Uplifted 12.84% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+1707020201,17,Mizoram,12.84%,8500,Uplifted 12.84% in Mizoram due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+30505200,3,Assam,12.83%,8400,Uplifted 12.83% in Assam due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2337020111,23,Telangana,12.83%,6400,Uplifted 12.83% in Telangana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+291901100,29,Chandigarh,12.82%,8500,Uplifted 12.82% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+232304111,23,Telangana,12.82%,5600,Uplifted 12.82% in Telangana due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 7 months.,300,1,1
+2312020111,23,Telangana,12.81%,10500,Uplifted 12.81% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2108040201,21,Rajasthan,12.81%,6400,Uplifted 12.81% in Rajasthan due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+61803121,6,Goa,12.8%,10500,Uplifted 12.8% in Goa due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+231606200,23,Telangana,12.8%,10500,Uplifted 12.8% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+271501100,27,West Bengal,12.8%,4900,Uplifted 12.8% in West Bengal due to Cash Transfer (700) for 7 months.,700,0,0
+82401111,8,Haryana,12.8%,10500,Uplifted 12.8% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2502010102,25,Uttar Pradesh,12.79%,8500,Uplifted 12.79% in Uttar Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+96503100,9,Himachal Pradesh,12.79%,5000,Uplifted 12.79% in Himachal Pradesh due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+280311100,28,Andaman and Nicobar Islands,12.77%,6900,Uplifted 12.77% in Andaman and Nicobar Islands due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+230502221,23,Telangana,12.76%,10500,Uplifted 12.76% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+80507200,8,Haryana,12.76%,8500,Uplifted 12.76% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+240801111,24,Tripura,12.75%,10500,Uplifted 12.75% in Tripura due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+210804200,21,Rajasthan,12.75%,8500,Uplifted 12.75% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+201205200,20,Punjab,12.75%,8500,Uplifted 12.75% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+240107200,24,Tripura,12.75%,6400,Uplifted 12.75% in Tripura due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+233701142,23,Telangana,12.73%,8500,Uplifted 12.73% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2202050101,22,Tamil Nadu,12.73%,8500,Uplifted 12.73% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+272604111,27,West Bengal,12.73%,8500,Uplifted 12.73% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+211404121,21,Rajasthan,12.73%,8400,Uplifted 12.73% in Rajasthan due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+220803100,22,Tamil Nadu,12.72%,8500,Uplifted 12.72% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+618100111,6,Goa,12.71%,4900,Uplifted 12.71% in Goa due to Cash Transfer (700) for 7 months.,700,0,0
+965050102,9,Himachal Pradesh,12.7%,8500,Uplifted 12.7% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+272307100,27,West Bengal,12.69%,7000,Uplifted 12.69% in West Bengal due to Cash Transfer (1000) for 7 months.,1000,0,0
+3315060101,33,Lakshadweep,12.68%,4900,Uplifted 12.68% in Lakshadweep due to Cash Transfer (700) for 7 months.,700,0,0
+242101211,24,Tripura,12.67%,8500,Uplifted 12.67% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2818060101,28,Andaman and Nicobar Islands,12.67%,8500,Uplifted 12.67% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+60205100,6,Goa,12.67%,10500,Uplifted 12.67% in Goa due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+232303271,23,Telangana,12.67%,8500,Uplifted 12.67% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2109030201,21,Rajasthan,12.67%,8500,Uplifted 12.67% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+180604200,18,Nagaland,12.67%,8500,Uplifted 12.67% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+270303142,27,West Bengal,12.66%,10500,Uplifted 12.66% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+272501111,27,West Bengal,12.66%,8500,Uplifted 12.66% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+191003122,19,Odisha,12.66%,8500,Uplifted 12.66% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+962030102,9,Himachal Pradesh,12.65%,6400,Uplifted 12.65% in Himachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+320801200,32,Delhi,12.64%,10500,Uplifted 12.64% in Delhi due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+232303251,23,Telangana,12.64%,10500,Uplifted 12.64% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+967020201,9,Himachal Pradesh,12.64%,4900,Uplifted 12.64% in Himachal Pradesh due to Cash Transfer (700) for 7 months.,700,0,0
+95104200,9,Himachal Pradesh,12.63%,10500,Uplifted 12.63% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+60501111,6,Goa,12.63%,10500,Uplifted 12.63% in Goa due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2920210109,29,Chandigarh,12.63%,8500,Uplifted 12.63% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2207010111,22,Tamil Nadu,12.62%,8500,Uplifted 12.62% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2407170101,24,Tripura,12.62%,9000,Uplifted 12.62% in Tripura due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+206040111,2,Arunachal Pradesh,12.62%,8500,Uplifted 12.62% in Arunachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+311070201,3,Assam,12.62%,4900,Uplifted 12.62% in Assam due to Cash Transfer (700) for 7 months.,700,0,0
+1916080101,19,Odisha,12.61%,6400,Uplifted 12.61% in Odisha due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+61002111,6,Goa,12.61%,6400,Uplifted 12.61% in Goa due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+260003200,26,Uttarakhand,12.61%,8500,Uplifted 12.61% in Uttarakhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1911150101,19,Odisha,12.6%,8500,Uplifted 12.6% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+220802100,22,Tamil Nadu,12.6%,10500,Uplifted 12.6% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+130002100,13,Madhya Pradesh,12.59%,3500,Uplifted 12.59% in Madhya Pradesh due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+231208111,23,Telangana,12.59%,8500,Uplifted 12.59% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190104131,19,Odisha,12.59%,8500,Uplifted 12.59% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+271703111,27,West Bengal,12.58%,8400,Uplifted 12.58% in West Bengal due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+3210030111,32,Delhi,12.58%,9000,Uplifted 12.58% in Delhi due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+190201121,19,Odisha,12.58%,10500,Uplifted 12.58% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+1002020113,10,Jharkhand,12.58%,6400,Uplifted 12.58% in Jharkhand due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+61803131,6,Goa,12.58%,6400,Uplifted 12.58% in Goa due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2924090101,29,Chandigarh,12.58%,6900,Uplifted 12.58% in Chandigarh due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+331701111,33,Lakshadweep,12.58%,10500,Uplifted 12.58% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+1014040121,10,Jharkhand,12.57%,4900,Uplifted 12.57% in Jharkhand due to Cash Transfer (700) for 7 months.,700,0,0
+270901100,27,West Bengal,12.56%,4900,Uplifted 12.56% in West Bengal due to Cash Transfer (700) for 7 months.,700,0,0
+332701100,33,Lakshadweep,12.55%,10500,Uplifted 12.55% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+31606200,3,Assam,12.55%,6400,Uplifted 12.55% in Assam due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+180201100,18,Nagaland,12.55%,8500,Uplifted 12.55% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+103201111,10,Jharkhand,12.55%,8500,Uplifted 12.55% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+201201224,20,Punjab,12.54%,10500,Uplifted 12.54% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2012120111,20,Punjab,12.54%,8500,Uplifted 12.54% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2336020112,23,Telangana,12.53%,10500,Uplifted 12.53% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+20509100,2,Arunachal Pradesh,12.53%,8400,Uplifted 12.53% in Arunachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+232006200,23,Telangana,12.52%,10500,Uplifted 12.52% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+210903200,21,Rajasthan,12.52%,8400,Uplifted 12.52% in Rajasthan due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+95402100,9,Himachal Pradesh,12.51%,10500,Uplifted 12.51% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+221103112,22,Tamil Nadu,12.51%,8400,Uplifted 12.51% in Tamil Nadu due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+94904300,9,Himachal Pradesh,12.51%,8500,Uplifted 12.51% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+906020201,9,Himachal Pradesh,12.51%,8500,Uplifted 12.51% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2927010201,29,Chandigarh,12.5%,8500,Uplifted 12.5% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190901123,19,Odisha,12.49%,10500,Uplifted 12.49% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+320607200,32,Delhi,12.48%,5600,Uplifted 12.48% in Delhi due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 7 months.,300,1,1
+2328060201,23,Telangana,12.47%,4900,Uplifted 12.47% in Telangana due to Cash Transfer (700) for 7 months.,700,0,0
+81502112,8,Haryana,12.47%,8500,Uplifted 12.47% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+292609100,29,Chandigarh,12.46%,8500,Uplifted 12.46% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+320704111,32,Delhi,12.45%,10500,Uplifted 12.45% in Delhi due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+710320101,7,Gujarat,12.45%,6400,Uplifted 12.45% in Gujarat due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2129020101,21,Rajasthan,12.45%,6400,Uplifted 12.45% in Rajasthan due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+233503111,23,Telangana,12.44%,8500,Uplifted 12.44% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+273007100,27,West Bengal,12.44%,8500,Uplifted 12.44% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3310040111,33,Lakshadweep,12.44%,6400,Uplifted 12.44% in Lakshadweep due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+210301111,21,Rajasthan,12.44%,8500,Uplifted 12.44% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+929020101,9,Himachal Pradesh,12.43%,6400,Uplifted 12.43% in Himachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+201416113,20,Punjab,12.43%,8400,Uplifted 12.43% in Punjab due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+618060202,6,Goa,12.43%,8500,Uplifted 12.43% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+231707200,23,Telangana,12.43%,10500,Uplifted 12.43% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+180908200,18,Nagaland,12.43%,10500,Uplifted 12.43% in Nagaland due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2204040201,22,Tamil Nadu,12.42%,10500,Uplifted 12.42% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+80706100,8,Haryana,12.42%,10500,Uplifted 12.42% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2703030131,27,West Bengal,12.42%,6400,Uplifted 12.42% in West Bengal due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+273107200,27,West Bengal,12.41%,6900,Uplifted 12.41% in West Bengal due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+2730040212,27,West Bengal,12.41%,4900,Uplifted 12.41% in West Bengal due to Cash Transfer (700) for 7 months.,700,0,0
+230803122,23,Telangana,12.41%,10500,Uplifted 12.41% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+190601141,19,Odisha,12.4%,10500,Uplifted 12.4% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2920030109,29,Chandigarh,12.39%,4900,Uplifted 12.39% in Chandigarh due to Cash Transfer (700) for 7 months.,700,0,0
+241502111,24,Tripura,12.39%,8500,Uplifted 12.39% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+292102100,29,Chandigarh,12.39%,10500,Uplifted 12.39% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+273003112,27,West Bengal,12.38%,8500,Uplifted 12.38% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+211050111,2,Arunachal Pradesh,12.38%,7000,Uplifted 12.38% in Arunachal Pradesh due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+191009100,19,Odisha,12.38%,9000,Uplifted 12.38% in Odisha due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+270701111,27,West Bengal,12.37%,6400,Uplifted 12.37% in West Bengal due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+290201200,29,Chandigarh,12.37%,6400,Uplifted 12.37% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+804070101,8,Haryana,12.36%,1500,Uplifted 12.36% in Haryana due to Nrega Program (1) for 7 months.,0,0,1
+94701100,9,Himachal Pradesh,12.35%,8500,Uplifted 12.35% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+94704100,9,Himachal Pradesh,12.35%,8400,Uplifted 12.35% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+120008100,12,Kerala,12.34%,10500,Uplifted 12.34% in Kerala due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+31101211,3,Assam,12.33%,10500,Uplifted 12.33% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2720070101,27,West Bengal,12.32%,7000,Uplifted 12.32% in West Bengal due to Cash Transfer (1000) for 7 months.,1000,0,0
+1917070101,19,Odisha,12.31%,4900,Uplifted 12.31% in Odisha due to Cash Transfer (700) for 7 months.,700,0,0
+1032030111,10,Jharkhand,12.31%,8500,Uplifted 12.31% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+292504100,29,Chandigarh,12.3%,6900,Uplifted 12.3% in Chandigarh due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+90508200,9,Himachal Pradesh,12.3%,8400,Uplifted 12.3% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+272502211,27,West Bengal,12.3%,10500,Uplifted 12.3% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+211905100,21,Rajasthan,12.29%,6400,Uplifted 12.29% in Rajasthan due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+92901200,9,Himachal Pradesh,12.29%,8500,Uplifted 12.29% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+20406100,2,Arunachal Pradesh,12.29%,8500,Uplifted 12.29% in Arunachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2305070101,23,Telangana,12.29%,8500,Uplifted 12.29% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+120008200,12,Kerala,12.28%,6400,Uplifted 12.28% in Kerala due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+1707030101,17,Mizoram,12.27%,8500,Uplifted 12.27% in Mizoram due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+292506200,29,Chandigarh,12.27%,10500,Uplifted 12.27% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+205060201,2,Arunachal Pradesh,12.26%,8400,Uplifted 12.26% in Arunachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+221302100,22,Tamil Nadu,12.26%,7000,Uplifted 12.26% in Tamil Nadu due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+220901221,22,Tamil Nadu,12.25%,8500,Uplifted 12.25% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+320703111,32,Delhi,12.25%,10500,Uplifted 12.25% in Delhi due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+31602211,3,Assam,12.25%,8500,Uplifted 12.25% in Assam due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+210105111,21,Rajasthan,12.25%,7000,Uplifted 12.25% in Rajasthan due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 7 months.,500,1,1
+61303111,6,Goa,12.25%,6400,Uplifted 12.25% in Goa due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+92302100,9,Himachal Pradesh,12.25%,8500,Uplifted 12.25% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2014070201,20,Punjab,12.24%,8500,Uplifted 12.24% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+942070201,9,Himachal Pradesh,12.24%,8400,Uplifted 12.24% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+1016040111,10,Jharkhand,12.23%,6400,Uplifted 12.23% in Jharkhand due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+96802300,9,Himachal Pradesh,12.23%,10500,Uplifted 12.23% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2926040101,29,Chandigarh,12.23%,4900,Uplifted 12.23% in Chandigarh due to Cash Transfer (700) for 7 months.,700,0,0
+2305030111,23,Telangana,12.22%,8500,Uplifted 12.22% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+51202112,5,Chhattisgarh,12.22%,10500,Uplifted 12.22% in Chhattisgarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2713030111,27,West Bengal,12.21%,4900,Uplifted 12.21% in West Bengal due to Cash Transfer (700) for 7 months.,700,0,0
+280402212,28,Andaman and Nicobar Islands,12.21%,8500,Uplifted 12.21% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+210802111,21,Rajasthan,12.21%,8500,Uplifted 12.21% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190608100,19,Odisha,12.21%,10500,Uplifted 12.21% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+3312180201,33,Lakshadweep,12.21%,8500,Uplifted 12.21% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2211010111,22,Tamil Nadu,12.2%,8500,Uplifted 12.2% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+290502111,29,Chandigarh,12.2%,6400,Uplifted 12.2% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+710050109,7,Gujarat,12.19%,10500,Uplifted 12.19% in Gujarat due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+291704100,29,Chandigarh,12.19%,8500,Uplifted 12.19% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2714060101,27,West Bengal,12.18%,8400,Uplifted 12.18% in West Bengal due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+929050101,9,Himachal Pradesh,12.18%,4900,Uplifted 12.18% in Himachal Pradesh due to Cash Transfer (700) for 7 months.,700,0,0
+291807100,29,Chandigarh,12.17%,8500,Uplifted 12.17% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1601010102,16,Meghalaya,12.17%,8500,Uplifted 12.17% in Meghalaya due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+815060201,8,Haryana,12.17%,8500,Uplifted 12.17% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2215040111,22,Tamil Nadu,12.17%,6400,Uplifted 12.17% in Tamil Nadu due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+241007200,24,Tripura,12.17%,10500,Uplifted 12.17% in Tripura due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+231602112,23,Telangana,12.17%,8500,Uplifted 12.17% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3329120102,33,Lakshadweep,12.16%,8500,Uplifted 12.16% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+31601113,3,Assam,12.16%,3500,Uplifted 12.16% in Assam due to Training Program (1) + Nrega Program (1) for 7 months.,0,1,1
+330501111,33,Lakshadweep,12.16%,10500,Uplifted 12.16% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+113050201,1,Andhra Pradesh,12.16%,8500,Uplifted 12.16% in Andhra Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1014050112,10,Jharkhand,12.16%,6400,Uplifted 12.16% in Jharkhand due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+205040212,2,Arunachal Pradesh,12.15%,8400,Uplifted 12.15% in Arunachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+234407200,23,Telangana,12.15%,10500,Uplifted 12.15% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+273003111,27,West Bengal,12.14%,8500,Uplifted 12.14% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+101405121,10,Jharkhand,12.13%,8500,Uplifted 12.13% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+190702111,19,Odisha,12.13%,8500,Uplifted 12.13% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+90902100,9,Himachal Pradesh,12.11%,10500,Uplifted 12.11% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+332802100,33,Lakshadweep,12.11%,9000,Uplifted 12.11% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+3325020101,33,Lakshadweep,12.11%,4900,Uplifted 12.11% in Lakshadweep due to Cash Transfer (700) for 7 months.,700,0,0
+301070201,3,Assam,12.11%,9000,Uplifted 12.11% in Assam due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+305050202,3,Assam,12.1%,6400,Uplifted 12.1% in Assam due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2308010111,23,Telangana,12.1%,6400,Uplifted 12.1% in Telangana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+905070101,9,Himachal Pradesh,12.1%,4900,Uplifted 12.1% in Himachal Pradesh due to Cash Transfer (700) for 7 months.,700,0,0
+2215020111,22,Tamil Nadu,12.1%,8400,Uplifted 12.1% in Tamil Nadu due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+1912060101,19,Odisha,12.1%,8500,Uplifted 12.1% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+321102122,32,Delhi,12.1%,8500,Uplifted 12.1% in Delhi due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1819010101,18,Nagaland,12.1%,7000,Uplifted 12.1% in Nagaland due to Cash Transfer (1000) for 7 months.,1000,0,0
+180208100,18,Nagaland,12.09%,8500,Uplifted 12.09% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+613060102,6,Goa,12.09%,8500,Uplifted 12.09% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2407090101,24,Tripura,12.09%,8500,Uplifted 12.09% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+959040101,9,Himachal Pradesh,12.08%,8500,Uplifted 12.08% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+211060101,2,Arunachal Pradesh,12.08%,8500,Uplifted 12.08% in Arunachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+942070101,9,Himachal Pradesh,12.07%,8500,Uplifted 12.07% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+945020211,9,Himachal Pradesh,12.07%,8500,Uplifted 12.07% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2410010112,24,Tripura,12.07%,8500,Uplifted 12.07% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+311020111,3,Assam,12.06%,8400,Uplifted 12.06% in Assam due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+281604111,28,Andaman and Nicobar Islands,12.06%,8500,Uplifted 12.06% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2202020112,22,Tamil Nadu,12.06%,10500,Uplifted 12.06% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+291601200,29,Chandigarh,12.05%,6900,Uplifted 12.05% in Chandigarh due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+93403100,9,Himachal Pradesh,12.05%,6400,Uplifted 12.05% in Himachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+904020211,9,Himachal Pradesh,12.03%,10500,Uplifted 12.03% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+290706100,29,Chandigarh,12.03%,9000,Uplifted 12.03% in Chandigarh due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+191104211,19,Odisha,12.03%,8500,Uplifted 12.03% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+942070102,9,Himachal Pradesh,12.03%,8500,Uplifted 12.03% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+950040101,9,Himachal Pradesh,12.02%,8500,Uplifted 12.02% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+160007111,16,Meghalaya,12.02%,10500,Uplifted 12.02% in Meghalaya due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+1912080101,19,Odisha,12.01%,8400,Uplifted 12.01% in Odisha due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+220501112,22,Tamil Nadu,12.01%,10500,Uplifted 12.01% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+206060101,2,Arunachal Pradesh,12.01%,6400,Uplifted 12.01% in Arunachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+93001100,9,Himachal Pradesh,12.0%,10500,Uplifted 12.0% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+807060201,8,Haryana,12.0%,8500,Uplifted 12.0% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+61001111,6,Goa,11.98%,10500,Uplifted 11.98% in Goa due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2706010111,27,West Bengal,11.98%,8500,Uplifted 11.98% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+100203111,10,Jharkhand,11.98%,10500,Uplifted 11.98% in Jharkhand due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+230903111,23,Telangana,11.98%,10500,Uplifted 11.98% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+919020101,9,Himachal Pradesh,11.98%,10500,Uplifted 11.98% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+220906200,22,Tamil Nadu,11.98%,8500,Uplifted 11.98% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+212405200,21,Rajasthan,11.98%,10500,Uplifted 11.98% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2926350111,29,Chandigarh,11.98%,8500,Uplifted 11.98% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1821010101,18,Nagaland,11.97%,4900,Uplifted 11.97% in Nagaland due to Cash Transfer (700) for 7 months.,700,0,0
+234204100,23,Telangana,11.97%,10500,Uplifted 11.97% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+60408100,6,Goa,11.96%,8500,Uplifted 11.96% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+904020111,9,Himachal Pradesh,11.96%,8500,Uplifted 11.96% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1802010102,18,Nagaland,11.96%,8500,Uplifted 11.96% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+914060101,9,Himachal Pradesh,11.95%,8500,Uplifted 11.95% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+81003111,8,Haryana,11.94%,10500,Uplifted 11.94% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+81501121,8,Haryana,11.94%,8500,Uplifted 11.94% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+291301100,29,Chandigarh,11.94%,6400,Uplifted 11.94% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+967010212,9,Himachal Pradesh,11.94%,10500,Uplifted 11.94% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+96603211,9,Himachal Pradesh,11.94%,5000,Uplifted 11.94% in Himachal Pradesh due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+60906100,6,Goa,11.93%,6900,Uplifted 11.93% in Goa due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+83208100,8,Haryana,11.93%,10500,Uplifted 11.93% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+929020103,9,Himachal Pradesh,11.92%,8500,Uplifted 11.92% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+113050101,1,Andhra Pradesh,11.91%,1500,Uplifted 11.91% in Andhra Pradesh due to Nrega Program (1) for 7 months.,0,0,1
+2210080101,22,Tamil Nadu,11.91%,8500,Uplifted 11.91% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1817020109,18,Nagaland,11.91%,8500,Uplifted 11.91% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2903010101,29,Chandigarh,11.91%,8500,Uplifted 11.91% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+703010101,7,Gujarat,11.91%,8500,Uplifted 11.91% in Gujarat due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2919360212,29,Chandigarh,11.9%,10500,Uplifted 11.9% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2012060101,20,Punjab,11.9%,8500,Uplifted 11.9% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+201403200,20,Punjab,11.9%,8500,Uplifted 11.9% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+808060102,8,Haryana,11.89%,6400,Uplifted 11.89% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+340004100,34,Puducherry,11.89%,6900,Uplifted 11.89% in Puducherry due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+95901200,9,Himachal Pradesh,11.89%,8500,Uplifted 11.89% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1002070101,10,Jharkhand,11.89%,4900,Uplifted 11.89% in Jharkhand due to Cash Transfer (700) for 7 months.,700,0,0
+211504200,21,Rajasthan,11.89%,10500,Uplifted 11.89% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+291801200,29,Chandigarh,11.88%,10500,Uplifted 11.88% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2308070201,23,Telangana,11.87%,8500,Uplifted 11.87% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3205040201,32,Delhi,11.87%,6400,Uplifted 11.87% in Delhi due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+94907100,9,Himachal Pradesh,11.87%,8400,Uplifted 11.87% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+909030101,9,Himachal Pradesh,11.87%,5000,Uplifted 11.87% in Himachal Pradesh due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+1204080201,12,Kerala,11.86%,8400,Uplifted 11.86% in Kerala due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2916020101,29,Chandigarh,11.86%,10500,Uplifted 11.86% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+923010201,9,Himachal Pradesh,11.86%,8400,Uplifted 11.86% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+1002070104,10,Jharkhand,11.86%,6400,Uplifted 11.86% in Jharkhand due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+210901211,21,Rajasthan,11.86%,10500,Uplifted 11.86% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+82405211,8,Haryana,11.85%,10500,Uplifted 11.85% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+331203100,33,Lakshadweep,11.84%,8500,Uplifted 11.84% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2723130101,27,West Bengal,11.84%,6400,Uplifted 11.84% in West Bengal due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+610030201,6,Goa,11.84%,8500,Uplifted 11.84% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2919350111,29,Chandigarh,11.82%,8500,Uplifted 11.82% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1910060211,19,Odisha,11.82%,8500,Uplifted 11.82% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1002010111,10,Jharkhand,11.81%,6400,Uplifted 11.81% in Jharkhand due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+232305111,23,Telangana,11.81%,8500,Uplifted 11.81% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1910020111,19,Odisha,11.81%,10500,Uplifted 11.81% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+81405100,8,Haryana,11.81%,10500,Uplifted 11.81% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+231604111,23,Telangana,11.81%,8500,Uplifted 11.81% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+3324030101,33,Lakshadweep,11.81%,8500,Uplifted 11.81% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+80405112,8,Haryana,11.81%,8500,Uplifted 11.81% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+810030111,8,Haryana,11.81%,8400,Uplifted 11.81% in Haryana due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2012110101,20,Punjab,11.8%,8500,Uplifted 11.8% in Punjab due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+220602200,22,Tamil Nadu,11.79%,8500,Uplifted 11.79% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+61204200,6,Goa,11.79%,5000,Uplifted 11.79% in Goa due to Cash Transfer (500) + Nrega Program (1) for 7 months.,500,0,1
+2335060101,23,Telangana,11.79%,8400,Uplifted 11.79% in Telangana due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+210901213,21,Rajasthan,11.79%,8500,Uplifted 11.79% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+60303100,6,Goa,11.78%,9000,Uplifted 11.78% in Goa due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+95402200,9,Himachal Pradesh,11.78%,8500,Uplifted 11.78% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2917020101,29,Chandigarh,11.78%,4900,Uplifted 11.78% in Chandigarh due to Cash Transfer (700) for 7 months.,700,0,0
+2910010201,29,Chandigarh,11.78%,7000,Uplifted 11.78% in Chandigarh due to Cash Transfer (1000) for 7 months.,1000,0,0
+211903111,21,Rajasthan,11.78%,10500,Uplifted 11.78% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+928030101,9,Himachal Pradesh,11.76%,6400,Uplifted 11.76% in Himachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+81005200,8,Haryana,11.76%,10500,Uplifted 11.76% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+260002200,26,Uttarakhand,11.76%,10500,Uplifted 11.76% in Uttarakhand due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+96505200,9,Himachal Pradesh,11.76%,6400,Uplifted 11.76% in Himachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+241904211,24,Tripura,11.75%,8500,Uplifted 11.75% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+102201111,10,Jharkhand,11.75%,6400,Uplifted 11.75% in Jharkhand due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2121050201,21,Rajasthan,11.74%,4900,Uplifted 11.74% in Rajasthan due to Cash Transfer (700) for 7 months.,700,0,0
+1022010111,10,Jharkhand,11.74%,8500,Uplifted 11.74% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+602060101,6,Goa,11.74%,8500,Uplifted 11.74% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+272305100,27,West Bengal,11.74%,9000,Uplifted 11.74% in West Bengal due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+2102030101,21,Rajasthan,11.73%,4900,Uplifted 11.73% in Rajasthan due to Cash Transfer (700) for 7 months.,700,0,0
+113010101,1,Andhra Pradesh,11.73%,10500,Uplifted 11.73% in Andhra Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+302050201,3,Assam,11.73%,10500,Uplifted 11.73% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+94203100,9,Himachal Pradesh,11.72%,8400,Uplifted 11.72% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2103050111,21,Rajasthan,11.72%,4900,Uplifted 11.72% in Rajasthan due to Cash Transfer (700) for 7 months.,700,0,0
+31112321,3,Assam,11.72%,8500,Uplifted 11.72% in Assam due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+230506100,23,Telangana,11.71%,6400,Uplifted 11.71% in Telangana due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+271301111,27,West Bengal,11.71%,10500,Uplifted 11.71% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+292602100,29,Chandigarh,11.71%,4900,Uplifted 11.71% in Chandigarh due to Cash Transfer (700) for 7 months.,700,0,0
+2201020111,22,Tamil Nadu,11.71%,8500,Uplifted 11.71% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+304070101,3,Assam,11.71%,10500,Uplifted 11.71% in Assam due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+61907100,6,Goa,11.71%,9000,Uplifted 11.71% in Goa due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+233703111,23,Telangana,11.71%,8500,Uplifted 11.71% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+201040111,2,Arunachal Pradesh,11.7%,6400,Uplifted 11.7% in Arunachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+1016070201,10,Jharkhand,11.7%,6400,Uplifted 11.7% in Jharkhand due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+272606100,27,West Bengal,11.69%,7000,Uplifted 11.69% in West Bengal due to Cash Transfer (1000) for 7 months.,1000,0,0
+321007100,32,Delhi,11.69%,8500,Uplifted 11.69% in Delhi due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+95004200,9,Himachal Pradesh,11.68%,8500,Uplifted 11.68% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+948010101,9,Himachal Pradesh,11.68%,8500,Uplifted 11.68% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+613060101,6,Goa,11.68%,8500,Uplifted 11.68% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+270704111,27,West Bengal,11.67%,10500,Uplifted 11.67% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+280207100,28,Andaman and Nicobar Islands,11.67%,8500,Uplifted 11.67% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+160004111,16,Meghalaya,11.67%,5600,Uplifted 11.67% in Meghalaya due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 7 months.,300,1,1
+220301112,22,Tamil Nadu,11.67%,10500,Uplifted 11.67% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2803050201,28,Andaman and Nicobar Islands,11.66%,8500,Uplifted 11.66% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2927030101,29,Chandigarh,11.65%,6400,Uplifted 11.65% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2207010133,22,Tamil Nadu,11.64%,8500,Uplifted 11.64% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+270707200,27,West Bengal,11.63%,8400,Uplifted 11.63% in West Bengal due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+2734020101,27,West Bengal,11.63%,4900,Uplifted 11.63% in West Bengal due to Cash Transfer (700) for 7 months.,700,0,0
+804010114,8,Haryana,11.63%,8500,Uplifted 11.63% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+605040111,6,Goa,11.63%,8500,Uplifted 11.63% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2903010201,29,Chandigarh,11.62%,8500,Uplifted 11.62% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+272008200,27,West Bengal,11.62%,8500,Uplifted 11.62% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2818020111,28,Andaman and Nicobar Islands,11.62%,8500,Uplifted 11.62% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+230502112,23,Telangana,11.62%,8500,Uplifted 11.62% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+82602111,8,Haryana,11.61%,10500,Uplifted 11.61% in Haryana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+210707100,21,Rajasthan,11.6%,8500,Uplifted 11.6% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+815070201,8,Haryana,11.59%,8400,Uplifted 11.59% in Haryana due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+81303111,8,Haryana,11.59%,8500,Uplifted 11.59% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+292020100,29,Chandigarh,11.58%,6400,Uplifted 11.58% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+220703113,22,Tamil Nadu,11.58%,10500,Uplifted 11.58% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2926060109,29,Chandigarh,11.57%,4900,Uplifted 11.57% in Chandigarh due to Cash Transfer (700) for 7 months.,700,0,0
+94803100,9,Himachal Pradesh,11.57%,10500,Uplifted 11.57% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+710040109,7,Gujarat,11.56%,8500,Uplifted 11.56% in Gujarat due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+273103111,27,West Bengal,11.56%,10500,Uplifted 11.56% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+291201100,29,Chandigarh,11.56%,6400,Uplifted 11.56% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2118030101,21,Rajasthan,11.55%,8400,Uplifted 11.55% in Rajasthan due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+331202200,33,Lakshadweep,11.55%,10500,Uplifted 11.55% in Lakshadweep due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+923040101,9,Himachal Pradesh,11.55%,4900,Uplifted 11.55% in Himachal Pradesh due to Cash Transfer (700) for 7 months.,700,0,0
+2014030201,20,Punjab,11.54%,10500,Uplifted 11.54% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+113110101,1,Andhra Pradesh,11.54%,4900,Uplifted 11.54% in Andhra Pradesh due to Cash Transfer (700) for 7 months.,700,0,0
+96001100,9,Himachal Pradesh,11.54%,10500,Uplifted 11.54% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+220101111,22,Tamil Nadu,11.54%,8400,Uplifted 11.54% in Tamil Nadu due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+180905200,18,Nagaland,11.54%,8500,Uplifted 11.54% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2119050101,21,Rajasthan,11.53%,10500,Uplifted 11.53% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+191006211,19,Odisha,11.53%,8500,Uplifted 11.53% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+934030202,9,Himachal Pradesh,11.53%,8500,Uplifted 11.53% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+60801131,6,Goa,11.53%,8500,Uplifted 11.53% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+602010311,6,Goa,11.53%,8500,Uplifted 11.53% in Goa due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+102304200,10,Jharkhand,11.52%,8500,Uplifted 11.52% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1028020101,10,Jharkhand,11.51%,4900,Uplifted 11.51% in Jharkhand due to Cash Transfer (700) for 7 months.,700,0,0
+212703100,21,Rajasthan,11.51%,7000,Uplifted 11.51% in Rajasthan due to Cash Transfer (1000) for 7 months.,1000,0,0
+965010101,9,Himachal Pradesh,11.51%,10500,Uplifted 11.51% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+3209040101,32,Delhi,11.51%,8500,Uplifted 11.51% in Delhi due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+181707100,18,Nagaland,11.5%,8500,Uplifted 11.5% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2805030101,28,Andaman and Nicobar Islands,11.5%,4900,Uplifted 11.5% in Andaman and Nicobar Islands due to Cash Transfer (700) for 7 months.,700,0,0
+3310030111,33,Lakshadweep,11.5%,6400,Uplifted 11.5% in Lakshadweep due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+220902111,22,Tamil Nadu,11.49%,8500,Uplifted 11.49% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2927020101,29,Chandigarh,11.49%,8500,Uplifted 11.49% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+948030101,9,Himachal Pradesh,11.48%,6400,Uplifted 11.48% in Himachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+170009100,17,Mizoram,11.48%,6900,Uplifted 11.48% in Mizoram due to Cash Transfer (700) + Training Program (1) for 7 months.,700,1,0
+292106200,29,Chandigarh,11.48%,8500,Uplifted 11.48% in Chandigarh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+101604112,10,Jharkhand,11.48%,8500,Uplifted 11.48% in Jharkhand due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+120006100,12,Kerala,11.47%,10500,Uplifted 11.47% in Kerala due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+946030101,9,Himachal Pradesh,11.47%,8500,Uplifted 11.47% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2819030101,28,Andaman and Nicobar Islands,11.47%,6400,Uplifted 11.47% in Andaman and Nicobar Islands due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+290202200,29,Chandigarh,11.47%,10500,Uplifted 11.47% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+230902131,23,Telangana,11.46%,8500,Uplifted 11.46% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+950040201,9,Himachal Pradesh,11.45%,6400,Uplifted 11.45% in Himachal Pradesh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+220401111,22,Tamil Nadu,11.45%,8500,Uplifted 11.45% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+232307200,23,Telangana,11.44%,8500,Uplifted 11.44% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2813060101,28,Andaman and Nicobar Islands,11.44%,8400,Uplifted 11.44% in Andaman and Nicobar Islands due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+102708200,10,Jharkhand,11.44%,10500,Uplifted 11.44% in Jharkhand due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 7 months.,1000,1,1
+2822040121,28,Andaman and Nicobar Islands,11.44%,6400,Uplifted 11.44% in Andaman and Nicobar Islands due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+712010101,7,Gujarat,11.44%,9000,Uplifted 11.44% in Gujarat due to Cash Transfer (1000) + Training Program (1) for 7 months.,1000,1,0
+190709200,19,Odisha,11.43%,4900,Uplifted 11.43% in Odisha due to Cash Transfer (700) for 7 months.,700,0,0
+2920040109,29,Chandigarh,11.43%,6400,Uplifted 11.43% in Chandigarh due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2108080101,21,Rajasthan,11.42%,6400,Uplifted 11.42% in Rajasthan due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+92903200,9,Himachal Pradesh,11.42%,8400,Uplifted 11.42% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 7 months.,700,1,1
+320505200,32,Delhi,11.41%,8500,Uplifted 11.41% in Delhi due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+2323030111,23,Telangana,11.41%,8500,Uplifted 11.41% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 7 months.,1000,0,1
+1104060102,11,Karnataka,11.41%,6400,Uplifted 11.41% in Karnataka due to Cash Transfer (700) + Nrega Program (1) for 7 months.,700,0,1
+2731010111,27,West Bengal,10.82%,1500,Uplifted 10.82% in West Bengal due to Nrega Program (1) for 7 months.,0,0,1
