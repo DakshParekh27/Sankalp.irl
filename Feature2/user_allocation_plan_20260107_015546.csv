@@ -1,0 +1,662 @@
+id,stateid,state_name,uplift_pct,cost,Comment,cash_transfer,food_subsidy,training_program,nrega_program
+210607100,21,Rajasthan,25.36%,15900,Uplifted 25.36% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+241903211,24,Tripura,24.95%,12500,Uplifted 24.95% in Tripura due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+220701111,22,Tamil Nadu,24.39%,12500,Uplifted 24.39% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+60906200,6,Goa,24.03%,15900,Uplifted 24.03% in Goa due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+201201241,20,Punjab,23.33%,12500,Uplifted 23.33% in Punjab due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+190907200,19,Odisha,23.27%,15200,Uplifted 23.27% in Odisha due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+96502100,9,Himachal Pradesh,23.2%,15200,Uplifted 23.2% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+221301111,22,Tamil Nadu,22.95%,17900,Uplifted 22.95% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+30103111,3,Assam,22.8%,15200,Uplifted 22.8% in Assam due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+2013070101,20,Punjab,22.56%,14550,Uplifted 22.56% in Punjab due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+311070101,3,Assam,22.31%,14550,Uplifted 22.31% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+210701111,21,Rajasthan,22.23%,17900,Uplifted 22.23% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+2701010111,27,West Bengal,21.77%,15900,Uplifted 21.77% in West Bengal due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+710010109,7,Gujarat,21.73%,14550,Uplifted 21.73% in Gujarat due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+220903111,22,Tamil Nadu,21.7%,15900,Uplifted 21.7% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2312010111,23,Telangana,21.68%,11850,Uplifted 21.68% in Telangana due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+234202113,23,Telangana,21.63%,12500,Uplifted 21.63% in Telangana due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+200207100,20,Punjab,21.52%,17900,Uplifted 21.52% in Punjab due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+181707200,18,Nagaland,21.49%,16550,Uplifted 21.49% in Nagaland due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+618060203,6,Goa,21.36%,10050,Uplifted 21.36% in Goa due to Cash Transfer (500) + Food Subsidy (450) + Nrega Program (1) for 9 months.,500,450,0,1
+273003121,27,West Bengal,21.23%,14300,Uplifted 21.23% in West Bengal due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+180610100,18,Nagaland,21.18%,12300,Uplifted 21.18% in Nagaland due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+270602112,27,West Bengal,21.15%,14300,Uplifted 21.15% in West Bengal due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+220906100,22,Tamil Nadu,21.1%,12500,Uplifted 21.1% in Tamil Nadu due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+211802311,21,Rajasthan,21.07%,15900,Uplifted 21.07% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2702050101,27,West Bengal,21.01%,15900,Uplifted 21.01% in West Bengal due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+212105100,21,Rajasthan,21.01%,15200,Uplifted 21.01% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+300104200,30,Dadra and Nagar Haveli,21.0%,10500,Uplifted 21.0% in Dadra and Nagar Haveli due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+230505114,23,Telangana,20.96%,12300,Uplifted 20.96% in Telangana due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+113140101,1,Andhra Pradesh,20.88%,15900,Uplifted 20.88% in Andhra Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+272607200,27,West Bengal,20.88%,14550,Uplifted 20.88% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+103206200,10,Jharkhand,20.86%,12500,Uplifted 20.86% in Jharkhand due to Cash Transfer (700) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,700,300,1,1
+101407100,10,Jharkhand,20.67%,13850,Uplifted 20.67% in Jharkhand due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+311040212,3,Assam,20.62%,15900,Uplifted 20.62% in Assam due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2905350111,29,Chandigarh,20.59%,15200,Uplifted 20.59% in Chandigarh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+2215050202,22,Tamil Nadu,20.54%,14550,Uplifted 20.54% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+825020112,8,Haryana,20.52%,11850,Uplifted 20.52% in Haryana due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+280107100,28,Andaman and Nicobar Islands,20.52%,16550,Uplifted 20.52% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2201010111,22,Tamil Nadu,20.51%,14550,Uplifted 20.51% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+30201111,3,Assam,20.49%,16550,Uplifted 20.49% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2211020111,22,Tamil Nadu,20.49%,13200,Uplifted 20.49% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+211802211,21,Rajasthan,20.48%,14550,Uplifted 20.48% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+210703111,21,Rajasthan,20.47%,17900,Uplifted 20.47% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+233602111,23,Telangana,20.47%,14550,Uplifted 20.47% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+282007100,28,Andaman and Nicobar Islands,20.44%,14550,Uplifted 20.44% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2344070202,23,Telangana,20.35%,15900,Uplifted 20.35% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2801070101,28,Andaman and Nicobar Islands,20.26%,15200,Uplifted 20.26% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+2917020102,29,Chandigarh,20.16%,11850,Uplifted 20.16% in Chandigarh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+212801100,21,Rajasthan,20.07%,17900,Uplifted 20.07% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+210802311,21,Rajasthan,19.99%,13850,Uplifted 19.99% in Rajasthan due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+1806060101,18,Nagaland,19.98%,13200,Uplifted 19.98% in Nagaland due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+231706200,23,Telangana,19.97%,14300,Uplifted 19.97% in Telangana due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+90301111,9,Himachal Pradesh,19.9%,12300,Uplifted 19.9% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+331504111,33,Lakshadweep,19.8%,16550,Uplifted 19.8% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+1802080101,18,Nagaland,19.78%,13200,Uplifted 19.78% in Nagaland due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+2907060101,29,Chandigarh,19.77%,15900,Uplifted 19.77% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+712020102,7,Gujarat,19.74%,16550,Uplifted 19.74% in Gujarat due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+272002111,27,West Bengal,19.7%,16550,Uplifted 19.7% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+190607100,19,Odisha,19.52%,14300,Uplifted 19.52% in Odisha due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+2206020201,22,Tamil Nadu,19.47%,11850,Uplifted 19.47% in Tamil Nadu due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+3329060101,33,Lakshadweep,19.47%,13850,Uplifted 19.47% in Lakshadweep due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+95905200,9,Himachal Pradesh,19.43%,12300,Uplifted 19.43% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+210803111,21,Rajasthan,19.42%,15200,Uplifted 19.42% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+71025100,7,Gujarat,19.41%,12500,Uplifted 19.41% in Gujarat due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+95104100,9,Himachal Pradesh,19.4%,16550,Uplifted 19.4% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+311120111,3,Assam,19.22%,15900,Uplifted 19.22% in Assam due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+92001100,9,Himachal Pradesh,19.21%,9600,Uplifted 19.21% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (200) + Nrega Program (1) for 9 months.,700,200,0,1
+281007100,28,Andaman and Nicobar Islands,19.1%,14550,Uplifted 19.1% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+272703111,27,West Bengal,19.09%,16550,Uplifted 19.09% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+290531111,29,Chandigarh,19.05%,16550,Uplifted 19.05% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2415040111,24,Tripura,19.0%,14550,Uplifted 19.0% in Tripura due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1014070101,10,Jharkhand,18.98%,14550,Uplifted 18.98% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+305050101,3,Assam,18.97%,14550,Uplifted 18.97% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+234103100,23,Telangana,18.97%,14550,Uplifted 18.97% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+211404111,21,Rajasthan,18.95%,13850,Uplifted 18.95% in Rajasthan due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+191108100,19,Odisha,18.94%,13200,Uplifted 18.94% in Odisha due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+180608200,18,Nagaland,18.94%,14550,Uplifted 18.94% in Nagaland due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+120001100,12,Kerala,18.92%,16550,Uplifted 18.92% in Kerala due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+82403212,8,Haryana,18.9%,14550,Uplifted 18.9% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+31111221,3,Assam,18.89%,15200,Uplifted 18.89% in Assam due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+190906113,19,Odisha,18.79%,14550,Uplifted 18.79% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2210090101,22,Tamil Nadu,18.76%,14550,Uplifted 18.76% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2421040111,24,Tripura,18.75%,14550,Uplifted 18.75% in Tripura due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+80603111,8,Haryana,18.73%,14300,Uplifted 18.73% in Haryana due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+170002200,17,Mizoram,18.7%,12500,Uplifted 18.7% in Mizoram due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+211906100,21,Rajasthan,18.7%,13850,Uplifted 18.7% in Rajasthan due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+212402111,21,Rajasthan,18.65%,16550,Uplifted 18.65% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+211805221,21,Rajasthan,18.64%,17900,Uplifted 18.64% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+3304050101,33,Lakshadweep,18.63%,13050,Uplifted 18.63% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+180207100,18,Nagaland,18.63%,14550,Uplifted 18.63% in Nagaland due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2714070101,27,West Bengal,18.63%,11700,Uplifted 18.63% in West Bengal due to Cash Transfer (1000) + Food Subsidy (300) for 9 months.,1000,300,0,0
+96701311,9,Himachal Pradesh,18.62%,10500,Uplifted 18.62% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+2912030102,29,Chandigarh,18.59%,13200,Uplifted 18.59% in Chandigarh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+212801200,21,Rajasthan,18.59%,12300,Uplifted 18.59% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+301100101,3,Assam,18.58%,14550,Uplifted 18.58% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+94908100,9,Himachal Pradesh,18.57%,10500,Uplifted 18.57% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+170001100,17,Mizoram,18.56%,14300,Uplifted 18.56% in Mizoram due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+1032050201,10,Jharkhand,18.53%,14550,Uplifted 18.53% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+815010121,8,Haryana,18.53%,15900,Uplifted 18.53% in Haryana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+10506200,1,Andhra Pradesh,18.51%,15200,Uplifted 18.51% in Andhra Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+82605200,8,Haryana,18.46%,14550,Uplifted 18.46% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+3309030101,33,Lakshadweep,18.42%,15200,Uplifted 18.42% in Lakshadweep due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+1916080101,19,Odisha,18.42%,14550,Uplifted 18.42% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+320812100,32,Delhi,18.4%,14400,Uplifted 18.4% in Delhi due to Cash Transfer (1000) + Food Subsidy (600) for 9 months.,1000,600,0,0
+2017080101,20,Punjab,18.37%,15900,Uplifted 18.37% in Punjab due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2101010101,21,Rajasthan,18.36%,14300,Uplifted 18.36% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+210701112,21,Rajasthan,18.36%,14300,Uplifted 18.36% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+90107100,9,Himachal Pradesh,18.35%,13200,Uplifted 18.35% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+617060101,6,Goa,18.35%,15200,Uplifted 18.35% in Goa due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+170006100,17,Mizoram,18.34%,10500,Uplifted 18.34% in Mizoram due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+83201112,8,Haryana,18.33%,14550,Uplifted 18.33% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+82007200,8,Haryana,18.31%,14550,Uplifted 18.31% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+272706200,27,West Bengal,18.29%,12300,Uplifted 18.29% in West Bengal due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+230905100,23,Telangana,18.26%,8900,Uplifted 18.26% in Telangana due to Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,0,600,1,1
+230506200,23,Telangana,18.25%,14300,Uplifted 18.25% in Telangana due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+1204070201,12,Kerala,18.21%,14550,Uplifted 18.21% in Kerala due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2726060101,27,West Bengal,18.2%,15900,Uplifted 18.2% in West Bengal due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2917010201,29,Chandigarh,18.19%,12300,Uplifted 18.19% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2911040201,29,Chandigarh,18.18%,13050,Uplifted 18.18% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+2014080201,20,Punjab,18.16%,14550,Uplifted 18.16% in Punjab due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2202050101,22,Tamil Nadu,18.15%,15900,Uplifted 18.15% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+316070201,3,Assam,18.14%,13850,Uplifted 18.14% in Assam due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+282304111,28,Andaman and Nicobar Islands,18.13%,10250,Uplifted 18.13% in Andaman and Nicobar Islands due to Cash Transfer (300) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,300,450,1,1
+815020111,8,Haryana,18.12%,13850,Uplifted 18.12% in Haryana due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+608010121,6,Goa,18.12%,11850,Uplifted 18.12% in Goa due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+281003112,28,Andaman and Nicobar Islands,18.11%,14550,Uplifted 18.11% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2337020111,23,Telangana,18.11%,13200,Uplifted 18.11% in Telangana due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+291203100,29,Chandigarh,18.1%,14550,Uplifted 18.1% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+212902100,21,Rajasthan,18.08%,15900,Uplifted 18.08% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+331009311,33,Lakshadweep,18.08%,14300,Uplifted 18.08% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+2316060101,23,Telangana,18.05%,13050,Uplifted 18.05% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+271501100,27,West Bengal,18.04%,11700,Uplifted 18.04% in West Bengal due to Cash Transfer (700) + Food Subsidy (600) for 9 months.,700,600,0,0
+320705100,32,Delhi,18.04%,13400,Uplifted 18.04% in Delhi due to Cash Transfer (500) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,500,600,1,1
+331502211,33,Lakshadweep,18.03%,7800,Uplifted 18.03% in Lakshadweep due to Cash Transfer (700) + Nrega Program (1) for 9 months.,700,0,0,1
+2708030101,27,West Bengal,18.0%,10500,Uplifted 18.0% in West Bengal due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+211509111,21,Rajasthan,17.99%,17900,Uplifted 17.99% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+102204200,10,Jharkhand,17.98%,13200,Uplifted 17.98% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+292533211,29,Chandigarh,17.95%,12500,Uplifted 17.95% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+81801100,8,Haryana,17.88%,9600,Uplifted 17.88% in Haryana due to Cash Transfer (700) + Food Subsidy (200) + Nrega Program (1) for 9 months.,700,200,0,1
+180603200,18,Nagaland,17.87%,14300,Uplifted 17.87% in Nagaland due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+618030131,6,Goa,17.84%,14550,Uplifted 17.84% in Goa due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1204060201,12,Kerala,17.81%,10800,Uplifted 17.81% in Kerala due to Cash Transfer (1000) + Food Subsidy (200) for 9 months.,1000,200,0,0
+3305040111,33,Lakshadweep,17.8%,11850,Uplifted 17.8% in Lakshadweep due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+30501111,3,Assam,17.78%,8000,Uplifted 17.78% in Assam due to Cash Transfer (500) + Training Program (1) + Nrega Program (1) for 9 months.,500,0,1,1
+2924080101,29,Chandigarh,17.72%,13850,Uplifted 17.72% in Chandigarh due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+81506100,8,Haryana,17.72%,15200,Uplifted 17.72% in Haryana due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+230802111,23,Telangana,17.71%,12300,Uplifted 17.71% in Telangana due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+241201111,24,Tripura,17.69%,14300,Uplifted 17.69% in Tripura due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+190709100,19,Odisha,17.69%,15200,Uplifted 17.69% in Odisha due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+321102311,32,Delhi,17.68%,16550,Uplifted 17.68% in Delhi due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2121060101,21,Rajasthan,17.67%,14550,Uplifted 17.67% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+232308100,23,Telangana,17.63%,10500,Uplifted 17.63% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+201707200,20,Punjab,17.61%,12300,Uplifted 17.61% in Punjab due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2315020101,23,Telangana,17.61%,15900,Uplifted 17.61% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+272001111,27,West Bengal,17.6%,12500,Uplifted 17.6% in West Bengal due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+221007100,22,Tamil Nadu,17.59%,10500,Uplifted 17.59% in Tamil Nadu due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+1104040109,11,Karnataka,17.57%,13200,Uplifted 17.57% in Karnataka due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+20105100,2,Arunachal Pradesh,17.54%,12500,Uplifted 17.54% in Arunachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+1910100101,19,Odisha,17.52%,11700,Uplifted 17.52% in Odisha due to Cash Transfer (1000) + Food Subsidy (300) for 9 months.,1000,300,0,0
+292536211,29,Chandigarh,17.51%,14550,Uplifted 17.51% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+708010201,7,Gujarat,17.5%,14550,Uplifted 17.5% in Gujarat due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2105080202,21,Rajasthan,17.5%,15900,Uplifted 17.5% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+231307100,23,Telangana,17.48%,12300,Uplifted 17.48% in Telangana due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+241908100,24,Tripura,17.48%,14300,Uplifted 17.48% in Tripura due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+2014140101,20,Punjab,17.47%,13200,Uplifted 17.47% in Punjab due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+190601133,19,Odisha,17.42%,14550,Uplifted 17.42% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+331601111,33,Lakshadweep,17.42%,14300,Uplifted 17.42% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+281601112,28,Andaman and Nicobar Islands,17.41%,14550,Uplifted 17.41% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+180601200,18,Nagaland,17.41%,14300,Uplifted 17.41% in Nagaland due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+2338030101,23,Telangana,17.41%,14550,Uplifted 17.41% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+273108100,27,West Bengal,17.38%,15200,Uplifted 17.38% in West Bengal due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+220301112,22,Tamil Nadu,17.38%,17900,Uplifted 17.38% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+2803080101,28,Andaman and Nicobar Islands,17.37%,14550,Uplifted 17.37% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2017080102,20,Punjab,17.35%,13200,Uplifted 17.35% in Punjab due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+710250101,7,Gujarat,17.34%,13700,Uplifted 17.34% in Gujarat due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) for 9 months.,1000,300,1,0
+60801111,6,Goa,17.33%,12800,Uplifted 17.33% in Goa due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) for 9 months.,1000,200,1,0
+271805200,27,West Bengal,17.33%,14550,Uplifted 17.33% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+160009200,16,Meghalaya,17.32%,10500,Uplifted 17.32% in Meghalaya due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+92408200,9,Himachal Pradesh,17.31%,10500,Uplifted 17.31% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+707030101,7,Gujarat,17.25%,14550,Uplifted 17.25% in Gujarat due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+903010111,9,Himachal Pradesh,17.24%,14550,Uplifted 17.24% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2909010103,29,Chandigarh,17.22%,12050,Uplifted 17.22% in Chandigarh due to Cash Transfer (500) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,500,450,1,1
+2204060101,22,Tamil Nadu,17.2%,15900,Uplifted 17.2% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+1806080102,18,Nagaland,17.19%,10500,Uplifted 17.19% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+813090101,8,Haryana,17.14%,16550,Uplifted 17.14% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2714060102,27,West Bengal,17.13%,11850,Uplifted 17.13% in West Bengal due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+805060101,8,Haryana,17.12%,13200,Uplifted 17.12% in Haryana due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+280307200,28,Andaman and Nicobar Islands,17.09%,14550,Uplifted 17.09% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+120005200,12,Kerala,17.09%,6200,Uplifted 17.09% in Kerala due to Cash Transfer (300) + Training Program (1) + Nrega Program (1) for 9 months.,300,0,1,1
+30704111,3,Assam,17.09%,10050,Uplifted 17.09% in Assam due to Cash Transfer (500) + Food Subsidy (450) + Nrega Program (1) for 9 months.,500,450,0,1
+291935211,29,Chandigarh,17.02%,12500,Uplifted 17.02% in Chandigarh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+2210050101,22,Tamil Nadu,17.01%,13200,Uplifted 17.01% in Tamil Nadu due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+190708200,19,Odisha,17.01%,10500,Uplifted 17.01% in Odisha due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+181701100,18,Nagaland,16.97%,10500,Uplifted 16.97% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+232304111,23,Telangana,16.96%,16550,Uplifted 16.96% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+204020111,2,Arunachal Pradesh,16.96%,15900,Uplifted 16.96% in Arunachal Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+923070101,9,Himachal Pradesh,16.95%,15900,Uplifted 16.95% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+965010201,9,Himachal Pradesh,16.94%,15200,Uplifted 16.94% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+181706100,18,Nagaland,16.93%,16550,Uplifted 16.93% in Nagaland due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2720070101,27,West Bengal,16.92%,13050,Uplifted 16.92% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+291604200,29,Chandigarh,16.9%,14300,Uplifted 16.9% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+707010101,7,Gujarat,16.9%,14300,Uplifted 16.9% in Gujarat due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+950040201,9,Himachal Pradesh,16.87%,13200,Uplifted 16.87% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+220302111,22,Tamil Nadu,16.87%,17900,Uplifted 16.87% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+230505111,23,Telangana,16.86%,12300,Uplifted 16.86% in Telangana due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+210201111,21,Rajasthan,16.86%,11850,Uplifted 16.86% in Rajasthan due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+2410060201,24,Tripura,16.82%,13200,Uplifted 16.82% in Tripura due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+2103020112,21,Rajasthan,16.81%,14550,Uplifted 16.81% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+200206100,20,Punjab,16.8%,14300,Uplifted 16.8% in Punjab due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+1002020113,10,Jharkhand,16.8%,14550,Uplifted 16.8% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+281604111,28,Andaman and Nicobar Islands,16.78%,14550,Uplifted 16.78% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2911030201,29,Chandigarh,16.75%,15900,Uplifted 16.75% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2118020212,21,Rajasthan,16.74%,13200,Uplifted 16.74% in Rajasthan due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+270903100,27,West Bengal,16.74%,14400,Uplifted 16.74% in West Bengal due to Cash Transfer (1000) + Food Subsidy (600) for 9 months.,1000,600,0,0
+2323010211,23,Telangana,16.73%,10500,Uplifted 16.73% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+2721130101,27,West Bengal,16.71%,13050,Uplifted 16.71% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+96506100,9,Himachal Pradesh,16.71%,13200,Uplifted 16.71% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+270602233,27,West Bengal,16.7%,16400,Uplifted 16.7% in West Bengal due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) for 9 months.,1000,600,1,0
+11204200,1,Andhra Pradesh,16.68%,8900,Uplifted 16.68% in Andhra Pradesh due to Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,0,600,1,1
+1901070101,19,Odisha,16.67%,15900,Uplifted 16.67% in Odisha due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+1909140101,19,Odisha,16.64%,11850,Uplifted 16.64% in Odisha due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+94906100,9,Himachal Pradesh,16.63%,16550,Uplifted 16.63% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+1909180101,19,Odisha,16.62%,14550,Uplifted 16.62% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+915040102,9,Himachal Pradesh,16.61%,13200,Uplifted 16.61% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+1817020109,18,Nagaland,16.61%,15900,Uplifted 16.61% in Nagaland due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+3330090101,33,Lakshadweep,16.6%,11700,Uplifted 16.6% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (300) for 9 months.,1000,300,0,0
+191806100,19,Odisha,16.6%,13050,Uplifted 16.6% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+21006200,2,Arunachal Pradesh,16.59%,8900,Uplifted 16.59% in Arunachal Pradesh due to Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,0,600,1,1
+81005200,8,Haryana,16.57%,14550,Uplifted 16.57% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2308050102,23,Telangana,16.57%,15900,Uplifted 16.57% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2128010201,21,Rajasthan,16.57%,13200,Uplifted 16.57% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+1909120101,19,Odisha,16.57%,13200,Uplifted 16.57% in Odisha due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+241504111,24,Tripura,16.56%,10500,Uplifted 16.56% in Tripura due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+2906010201,29,Chandigarh,16.56%,15900,Uplifted 16.56% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2918050201,29,Chandigarh,16.55%,11850,Uplifted 16.55% in Chandigarh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+81501141,8,Haryana,16.55%,14550,Uplifted 16.55% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+273107100,27,West Bengal,16.55%,14550,Uplifted 16.55% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+92904200,9,Himachal Pradesh,16.53%,14550,Uplifted 16.53% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+320906200,32,Delhi,16.52%,16550,Uplifted 16.52% in Delhi due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+1912040101,19,Odisha,16.51%,12300,Uplifted 16.51% in Odisha due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2919350211,29,Chandigarh,16.5%,11400,Uplifted 16.5% in Chandigarh due to Cash Transfer (500) + Food Subsidy (600) + Nrega Program (1) for 9 months.,500,600,0,1
+80604111,8,Haryana,16.49%,14550,Uplifted 16.49% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2821020101,28,Andaman and Nicobar Islands,16.46%,11850,Uplifted 16.46% in Andaman and Nicobar Islands due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+824080201,8,Haryana,16.46%,12300,Uplifted 16.46% in Haryana due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+806110101,8,Haryana,16.46%,15900,Uplifted 16.46% in Haryana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+3315050201,33,Lakshadweep,16.46%,14550,Uplifted 16.46% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2312070102,23,Telangana,16.45%,13200,Uplifted 16.45% in Telangana due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+20511111,2,Arunachal Pradesh,16.44%,15200,Uplifted 16.44% in Arunachal Pradesh due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+81501111,8,Haryana,16.41%,14550,Uplifted 16.41% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+96701111,9,Himachal Pradesh,16.4%,12500,Uplifted 16.4% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+290507100,29,Chandigarh,16.4%,14550,Uplifted 16.4% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+101201111,10,Jharkhand,16.37%,15900,Uplifted 16.37% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2731010112,27,West Bengal,16.36%,14550,Uplifted 16.36% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+3314010101,33,Lakshadweep,16.36%,11850,Uplifted 16.36% in Lakshadweep due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+2209010221,22,Tamil Nadu,16.36%,9800,Uplifted 16.36% in Tamil Nadu due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 9 months.,700,0,1,1
+230504111,23,Telangana,16.35%,10500,Uplifted 16.35% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+2732040111,27,West Bengal,16.34%,13050,Uplifted 16.34% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+2730040212,27,West Bengal,16.33%,11850,Uplifted 16.33% in West Bengal due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+96502200,9,Himachal Pradesh,16.33%,15200,Uplifted 16.33% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+320704111,32,Delhi,16.31%,14550,Uplifted 16.31% in Delhi due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+804020111,8,Haryana,16.31%,13200,Uplifted 16.31% in Haryana due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+230801112,23,Telangana,16.3%,13200,Uplifted 16.3% in Telangana due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+2703080101,27,West Bengal,16.29%,14550,Uplifted 16.29% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+80901111,8,Haryana,16.27%,9600,Uplifted 16.27% in Haryana due to Cash Transfer (700) + Food Subsidy (200) + Nrega Program (1) for 9 months.,700,200,0,1
+966020201,9,Himachal Pradesh,16.26%,15200,Uplifted 16.26% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+20202221,2,Arunachal Pradesh,16.26%,11850,Uplifted 16.26% in Arunachal Pradesh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+2714060101,27,West Bengal,16.25%,15200,Uplifted 16.25% in West Bengal due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+10302100,1,Andhra Pradesh,16.25%,12500,Uplifted 16.25% in Andhra Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+332913100,33,Lakshadweep,16.25%,12800,Uplifted 16.25% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) for 9 months.,1000,200,1,0
+2912060101,29,Chandigarh,16.24%,9600,Uplifted 16.24% in Chandigarh due to Cash Transfer (700) + Food Subsidy (200) + Nrega Program (1) for 9 months.,700,200,0,1
+2013060109,20,Punjab,16.22%,14550,Uplifted 16.22% in Punjab due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+710040109,7,Gujarat,16.22%,15900,Uplifted 16.22% in Gujarat due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2325100101,23,Telangana,16.21%,10500,Uplifted 16.21% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+1806020201,18,Nagaland,16.2%,12300,Uplifted 16.2% in Nagaland due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+290537111,29,Chandigarh,16.19%,3500,Uplifted 16.19% in Chandigarh due to Training Program (1) + Nrega Program (1) for 9 months.,0,0,1,1
+60501211,6,Goa,16.18%,7800,Uplifted 16.18% in Goa due to Cash Transfer (700) + Nrega Program (1) for 9 months.,700,0,0,1
+231606200,23,Telangana,16.18%,17900,Uplifted 16.18% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+221505200,22,Tamil Nadu,16.17%,17900,Uplifted 16.17% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+2421030201,24,Tripura,16.17%,14550,Uplifted 16.17% in Tripura due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+212906200,21,Rajasthan,16.17%,14550,Uplifted 16.17% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+20509100,2,Arunachal Pradesh,16.16%,15200,Uplifted 16.16% in Arunachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+30905100,3,Assam,16.15%,16550,Uplifted 16.15% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+241502111,24,Tripura,16.14%,14550,Uplifted 16.14% in Tripura due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1908080101,19,Odisha,16.13%,14550,Uplifted 16.13% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+120009200,12,Kerala,16.13%,14300,Uplifted 16.13% in Kerala due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+320904100,32,Delhi,16.12%,14550,Uplifted 16.12% in Delhi due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+190908200,19,Odisha,16.11%,14550,Uplifted 16.11% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+282012111,28,Andaman and Nicobar Islands,16.11%,14550,Uplifted 16.11% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+180608100,18,Nagaland,16.11%,10500,Uplifted 16.11% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+94203100,9,Himachal Pradesh,16.1%,15200,Uplifted 16.1% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+305050202,3,Assam,16.1%,11850,Uplifted 16.1% in Assam due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+90508200,9,Himachal Pradesh,16.1%,15200,Uplifted 16.1% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+273002213,27,West Bengal,16.06%,14550,Uplifted 16.06% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+233701122,23,Telangana,16.06%,15900,Uplifted 16.06% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+291202100,29,Chandigarh,16.05%,15200,Uplifted 16.05% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+2109030201,21,Rajasthan,16.05%,14550,Uplifted 16.05% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+190101112,19,Odisha,16.04%,13200,Uplifted 16.04% in Odisha due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+2415010111,24,Tripura,16.04%,13050,Uplifted 16.04% in Tripura due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+81304111,8,Haryana,16.04%,10500,Uplifted 16.04% in Haryana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+212402222,21,Rajasthan,16.03%,15900,Uplifted 16.03% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+100504111,10,Jharkhand,16.03%,15200,Uplifted 16.03% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+3205110101,32,Delhi,16.01%,10800,Uplifted 16.01% in Delhi due to Cash Transfer (1000) + Food Subsidy (200) for 9 months.,1000,200,0,0
+2123020111,21,Rajasthan,16.01%,14550,Uplifted 16.01% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+710090101,7,Gujarat,16.0%,9600,Uplifted 16.0% in Gujarat due to Cash Transfer (300) + Food Subsidy (600) + Nrega Program (1) for 9 months.,300,600,0,1
+332307100,33,Lakshadweep,15.99%,14300,Uplifted 15.99% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+180603100,18,Nagaland,15.98%,12500,Uplifted 15.98% in Nagaland due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+942070201,9,Himachal Pradesh,15.97%,15200,Uplifted 15.97% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+201303200,20,Punjab,15.97%,14300,Uplifted 15.97% in Punjab due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+92407100,9,Himachal Pradesh,15.96%,14550,Uplifted 15.96% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+30502111,3,Assam,15.95%,16550,Uplifted 15.95% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+95903200,9,Himachal Pradesh,15.94%,10500,Uplifted 15.94% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+2335060101,23,Telangana,15.93%,15200,Uplifted 15.93% in Telangana due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+202020211,2,Arunachal Pradesh,15.92%,13200,Uplifted 15.92% in Arunachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+90507100,9,Himachal Pradesh,15.92%,13200,Uplifted 15.92% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+2014080101,20,Punjab,15.9%,7800,Uplifted 15.9% in Punjab due to Cash Transfer (700) + Nrega Program (1) for 9 months.,700,0,0,1
+234202111,23,Telangana,15.89%,10500,Uplifted 15.89% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+95405100,9,Himachal Pradesh,15.89%,9800,Uplifted 15.89% in Himachal Pradesh due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 9 months.,700,0,1,1
+232006100,23,Telangana,15.89%,9600,Uplifted 15.89% in Telangana due to Cash Transfer (700) + Food Subsidy (200) + Nrega Program (1) for 9 months.,700,200,0,1
+967020201,9,Himachal Pradesh,15.89%,14550,Uplifted 15.89% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+80507200,8,Haryana,15.89%,14550,Uplifted 15.89% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+505050101,5,Chhattisgarh,15.88%,14550,Uplifted 15.88% in Chhattisgarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+291007200,29,Chandigarh,15.88%,16550,Uplifted 15.88% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2913060201,29,Chandigarh,15.88%,12300,Uplifted 15.88% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2107030111,21,Rajasthan,15.88%,16550,Uplifted 15.88% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+95902100,9,Himachal Pradesh,15.84%,15900,Uplifted 15.84% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+340003100,34,Puducherry,15.84%,14550,Uplifted 15.84% in Puducherry due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+710320101,7,Gujarat,15.83%,13200,Uplifted 15.83% in Gujarat due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+212901111,21,Rajasthan,15.82%,12500,Uplifted 15.82% in Rajasthan due to Cash Transfer (700) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,700,300,1,1
+232303121,23,Telangana,15.81%,10500,Uplifted 15.81% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+704010209,7,Gujarat,15.8%,15900,Uplifted 15.8% in Gujarat due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+832080201,8,Haryana,15.79%,11850,Uplifted 15.79% in Haryana due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+962020101,9,Himachal Pradesh,15.79%,11700,Uplifted 15.79% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (300) for 9 months.,1000,300,0,0
+1817070101,18,Nagaland,15.79%,10500,Uplifted 15.79% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+1909210111,19,Odisha,15.76%,14550,Uplifted 15.76% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+290201200,29,Chandigarh,15.76%,11850,Uplifted 15.76% in Chandigarh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+212106100,21,Rajasthan,15.76%,12500,Uplifted 15.76% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+608060201,6,Goa,15.75%,14550,Uplifted 15.75% in Goa due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1002070102,10,Jharkhand,15.75%,14550,Uplifted 15.75% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+190601132,19,Odisha,15.75%,14550,Uplifted 15.75% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+242004211,24,Tripura,15.74%,12050,Uplifted 15.74% in Tripura due to Cash Transfer (500) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,500,450,1,1
+96504100,9,Himachal Pradesh,15.74%,14300,Uplifted 15.74% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+102070101,1,Andhra Pradesh,15.74%,8900,Uplifted 15.74% in Andhra Pradesh due to Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,0,600,1,1
+170008200,17,Mizoram,15.73%,15200,Uplifted 15.73% in Mizoram due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+11204100,1,Andhra Pradesh,15.72%,14300,Uplifted 15.72% in Andhra Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+270601211,27,West Bengal,15.72%,14550,Uplifted 15.72% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1602030101,16,Meghalaya,15.72%,13200,Uplifted 15.72% in Meghalaya due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+60502111,6,Goa,15.71%,6000,Uplifted 15.71% in Goa due to Cash Transfer (500) + Nrega Program (1) for 9 months.,500,0,0,1
+90602200,9,Himachal Pradesh,15.71%,14300,Uplifted 15.71% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+968020201,9,Himachal Pradesh,15.7%,14550,Uplifted 15.7% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2201030102,22,Tamil Nadu,15.7%,14550,Uplifted 15.7% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+80611100,8,Haryana,15.7%,13700,Uplifted 15.7% in Haryana due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) for 9 months.,1000,300,1,0
+130006100,13,Madhya Pradesh,15.69%,16550,Uplifted 15.69% in Madhya Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+90405200,9,Himachal Pradesh,15.69%,12300,Uplifted 15.69% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+232301111,23,Telangana,15.68%,13200,Uplifted 15.68% in Telangana due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+513020111,5,Chhattisgarh,15.67%,15900,Uplifted 15.67% in Chhattisgarh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+331506100,33,Lakshadweep,15.67%,13050,Uplifted 15.67% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+320514111,32,Delhi,15.67%,12500,Uplifted 15.67% in Delhi due to Cash Transfer (700) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,700,300,1,1
+233701111,23,Telangana,15.67%,15200,Uplifted 15.67% in Telangana due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+1917070101,19,Odisha,15.67%,13200,Uplifted 15.67% in Odisha due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+2305070101,23,Telangana,15.67%,15900,Uplifted 15.67% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+280402212,28,Andaman and Nicobar Islands,15.66%,14550,Uplifted 15.66% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+3312180201,33,Lakshadweep,15.66%,15900,Uplifted 15.66% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2822060101,28,Andaman and Nicobar Islands,15.65%,14300,Uplifted 15.65% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+140001100,14,Maharashtra,15.65%,10500,Uplifted 15.65% in Maharashtra due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+191002112,19,Odisha,15.64%,14550,Uplifted 15.64% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+230901111,23,Telangana,15.64%,13850,Uplifted 15.64% in Telangana due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+101402111,10,Jharkhand,15.61%,13200,Uplifted 15.61% in Jharkhand due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+965080101,9,Himachal Pradesh,15.61%,14550,Uplifted 15.61% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+81503111,8,Haryana,15.6%,16550,Uplifted 15.6% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+80502111,8,Haryana,15.59%,14550,Uplifted 15.59% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2907020201,29,Chandigarh,15.59%,11850,Uplifted 15.59% in Chandigarh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+951020101,9,Himachal Pradesh,15.58%,13200,Uplifted 15.58% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+815040111,8,Haryana,15.57%,11850,Uplifted 15.57% in Haryana due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+1909070201,19,Odisha,15.57%,15900,Uplifted 15.57% in Odisha due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2723130101,27,West Bengal,15.56%,13200,Uplifted 15.56% in West Bengal due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+273007200,27,West Bengal,15.55%,15200,Uplifted 15.55% in West Bengal due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+2211050101,22,Tamil Nadu,15.54%,15900,Uplifted 15.54% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+230205100,23,Telangana,15.53%,14550,Uplifted 15.53% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2336030101,23,Telangana,15.53%,15900,Uplifted 15.53% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+82004111,8,Haryana,15.53%,14300,Uplifted 15.53% in Haryana due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+292609100,29,Chandigarh,15.52%,15900,Uplifted 15.52% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+271407200,27,West Bengal,15.52%,7800,Uplifted 15.52% in West Bengal due to Cash Transfer (700) + Nrega Program (1) for 9 months.,700,0,0,1
+1911080201,19,Odisha,15.52%,13200,Uplifted 15.52% in Odisha due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+3315040311,33,Lakshadweep,15.52%,12300,Uplifted 15.52% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2109010311,21,Rajasthan,15.51%,15200,Uplifted 15.51% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+710050109,7,Gujarat,15.5%,17900,Uplifted 15.5% in Gujarat due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+231001111,23,Telangana,15.5%,14550,Uplifted 15.5% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+305050201,3,Assam,15.49%,14400,Uplifted 15.49% in Assam due to Cash Transfer (1000) + Food Subsidy (600) for 9 months.,1000,600,0,0
+302060101,3,Assam,15.49%,13200,Uplifted 15.49% in Assam due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+2905020111,29,Chandigarh,15.48%,11850,Uplifted 15.48% in Chandigarh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+1002070104,10,Jharkhand,15.47%,11850,Uplifted 15.47% in Jharkhand due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+241908200,24,Tripura,15.47%,12500,Uplifted 15.47% in Tripura due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+211501111,21,Rajasthan,15.47%,12500,Uplifted 15.47% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+282106100,28,Andaman and Nicobar Islands,15.45%,14400,Uplifted 15.45% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (600) for 9 months.,1000,600,0,0
+2204070101,22,Tamil Nadu,15.43%,14550,Uplifted 15.43% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+61803131,6,Goa,15.43%,13200,Uplifted 15.43% in Goa due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+304050101,3,Assam,15.43%,14550,Uplifted 15.43% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+710160109,7,Gujarat,15.42%,15050,Uplifted 15.42% in Gujarat due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) for 9 months.,1000,450,1,0
+2927030201,29,Chandigarh,15.42%,11700,Uplifted 15.42% in Chandigarh due to Cash Transfer (700) + Food Subsidy (600) for 9 months.,700,600,0,0
+291403100,29,Chandigarh,15.42%,14550,Uplifted 15.42% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+930010101,9,Himachal Pradesh,15.41%,13200,Uplifted 15.41% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+211703100,21,Rajasthan,15.4%,10500,Uplifted 15.4% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+3309010101,33,Lakshadweep,15.39%,16550,Uplifted 15.39% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+180208200,18,Nagaland,15.38%,12300,Uplifted 15.38% in Nagaland due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+832070101,8,Haryana,15.37%,16550,Uplifted 15.37% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+94502211,9,Himachal Pradesh,15.35%,15200,Uplifted 15.35% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+807030112,8,Haryana,15.34%,13200,Uplifted 15.34% in Haryana due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+101401111,10,Jharkhand,15.33%,14300,Uplifted 15.33% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+292104100,29,Chandigarh,15.33%,12800,Uplifted 15.33% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) for 9 months.,1000,200,1,0
+2920220109,29,Chandigarh,15.32%,14550,Uplifted 15.32% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1803010109,18,Nagaland,15.32%,15900,Uplifted 15.32% in Nagaland due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+95401100,9,Himachal Pradesh,15.31%,15900,Uplifted 15.31% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2725050111,27,West Bengal,15.3%,14550,Uplifted 15.3% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+311020111,3,Assam,15.3%,13850,Uplifted 15.3% in Assam due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+332310100,33,Lakshadweep,15.29%,13050,Uplifted 15.29% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+221002211,22,Tamil Nadu,15.28%,16550,Uplifted 15.28% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2408090109,24,Tripura,15.27%,15900,Uplifted 15.27% in Tripura due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+201201225,20,Punjab,15.26%,17900,Uplifted 15.26% in Punjab due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+311030212,3,Assam,15.25%,13700,Uplifted 15.25% in Assam due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) for 9 months.,1000,300,1,0
+96801211,9,Himachal Pradesh,15.25%,6000,Uplifted 15.25% in Himachal Pradesh due to Cash Transfer (500) + Nrega Program (1) for 9 months.,500,0,0,1
+220703112,22,Tamil Nadu,15.25%,13200,Uplifted 15.25% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+2703030131,27,West Bengal,15.24%,13200,Uplifted 15.24% in West Bengal due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+2918080201,29,Chandigarh,15.23%,13200,Uplifted 15.23% in Chandigarh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+948030101,9,Himachal Pradesh,15.22%,11850,Uplifted 15.22% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+1014050112,10,Jharkhand,15.21%,13200,Uplifted 15.21% in Jharkhand due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+2312040111,23,Telangana,15.21%,14300,Uplifted 15.21% in Telangana due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+190906111,19,Odisha,15.2%,14550,Uplifted 15.2% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+31111211,3,Assam,15.19%,10500,Uplifted 15.19% in Assam due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+3310010111,33,Lakshadweep,15.19%,13850,Uplifted 15.19% in Lakshadweep due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+221504111,22,Tamil Nadu,15.18%,15900,Uplifted 15.18% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2207010133,22,Tamil Nadu,15.18%,13200,Uplifted 15.18% in Tamil Nadu due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+81005100,8,Haryana,15.18%,17900,Uplifted 15.18% in Haryana due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+3402020101,34,Puducherry,15.17%,13850,Uplifted 15.17% in Puducherry due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+210901111,21,Rajasthan,15.15%,14300,Uplifted 15.15% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+618060101,6,Goa,15.15%,14550,Uplifted 15.15% in Goa due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+60505111,6,Goa,15.14%,14550,Uplifted 15.14% in Goa due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2725140101,27,West Bengal,15.14%,14300,Uplifted 15.14% in West Bengal due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+230502221,23,Telangana,15.13%,14550,Uplifted 15.13% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+232003222,23,Telangana,15.13%,12300,Uplifted 15.13% in Telangana due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2316040111,23,Telangana,15.11%,15200,Uplifted 15.11% in Telangana due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+2210070102,22,Tamil Nadu,15.11%,15200,Uplifted 15.11% in Tamil Nadu due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+273003113,27,West Bengal,15.11%,12300,Uplifted 15.11% in West Bengal due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+50906200,5,Chhattisgarh,15.11%,14300,Uplifted 15.11% in Chhattisgarh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+2201030101,22,Tamil Nadu,15.1%,14550,Uplifted 15.1% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+612070101,6,Goa,15.09%,13050,Uplifted 15.09% in Goa due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+94903100,9,Himachal Pradesh,15.09%,12300,Uplifted 15.09% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+3209040101,32,Delhi,15.09%,14550,Uplifted 15.09% in Delhi due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+200207200,20,Punjab,15.09%,15200,Uplifted 15.09% in Punjab due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+190208200,19,Odisha,15.06%,13200,Uplifted 15.06% in Odisha due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+2804020111,28,Andaman and Nicobar Islands,15.06%,15900,Uplifted 15.06% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+305020111,3,Assam,15.03%,15900,Uplifted 15.03% in Assam due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+331701111,33,Lakshadweep,15.03%,14550,Uplifted 15.03% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+60405100,6,Goa,15.02%,14550,Uplifted 15.02% in Goa due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+954070101,9,Himachal Pradesh,15.0%,13200,Uplifted 15.0% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+190702111,19,Odisha,14.99%,14550,Uplifted 14.99% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1916060101,19,Odisha,14.99%,14550,Uplifted 14.99% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2407100101,24,Tripura,14.99%,15900,Uplifted 14.99% in Tripura due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2924040101,29,Chandigarh,14.99%,15900,Uplifted 14.99% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+808060102,8,Haryana,14.98%,11850,Uplifted 14.98% in Haryana due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+806100101,8,Haryana,14.98%,15900,Uplifted 14.98% in Haryana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2309040111,23,Telangana,14.97%,10500,Uplifted 14.97% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+31112111,3,Assam,14.97%,8900,Uplifted 14.97% in Assam due to Cash Transfer (300) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,300,300,1,1
+815010111,8,Haryana,14.96%,14300,Uplifted 14.96% in Haryana due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+83208200,8,Haryana,14.96%,12300,Uplifted 14.96% in Haryana due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2106070201,21,Rajasthan,14.96%,12500,Uplifted 14.96% in Rajasthan due to Cash Transfer (700) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,700,300,1,1
+190103111,19,Odisha,14.96%,12300,Uplifted 14.96% in Odisha due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2919050101,29,Chandigarh,14.95%,14550,Uplifted 14.95% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+928030101,9,Himachal Pradesh,14.95%,11850,Uplifted 14.95% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+311130112,3,Assam,14.95%,14550,Uplifted 14.95% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+818010101,8,Haryana,14.95%,11850,Uplifted 14.95% in Haryana due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+947010201,9,Himachal Pradesh,14.95%,14550,Uplifted 14.95% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1707020201,17,Mizoram,14.94%,14550,Uplifted 14.94% in Mizoram due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+291805200,29,Chandigarh,14.94%,16550,Uplifted 14.94% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+81405100,8,Haryana,14.92%,13050,Uplifted 14.92% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+96501100,9,Himachal Pradesh,14.91%,15200,Uplifted 14.91% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+50506100,5,Chhattisgarh,14.91%,10350,Uplifted 14.91% in Chhattisgarh due to Cash Transfer (700) + Food Subsidy (450) for 9 months.,700,450,0,0
+2211010111,22,Tamil Nadu,14.9%,15900,Uplifted 14.9% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+191104111,19,Odisha,14.88%,15200,Uplifted 14.88% in Odisha due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+1014010111,10,Jharkhand,14.87%,14550,Uplifted 14.87% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+60801131,6,Goa,14.83%,15900,Uplifted 14.83% in Goa due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2201020111,22,Tamil Nadu,14.83%,15900,Uplifted 14.83% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+60506211,6,Goa,14.82%,11850,Uplifted 14.82% in Goa due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+191107100,19,Odisha,14.82%,12500,Uplifted 14.82% in Odisha due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+2707040121,27,West Bengal,14.82%,17900,Uplifted 14.82% in West Bengal due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+280402111,28,Andaman and Nicobar Islands,14.82%,10500,Uplifted 14.82% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+272501111,27,West Bengal,14.81%,14550,Uplifted 14.81% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+210702111,21,Rajasthan,14.8%,6000,Uplifted 14.8% in Rajasthan due to Cash Transfer (500) + Nrega Program (1) for 9 months.,500,0,0,1
+280212100,28,Andaman and Nicobar Islands,14.8%,14400,Uplifted 14.8% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (600) for 9 months.,1000,600,0,0
+929020103,9,Himachal Pradesh,14.79%,14550,Uplifted 14.79% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1028020101,10,Jharkhand,14.79%,11850,Uplifted 14.79% in Jharkhand due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+1032080102,10,Jharkhand,14.78%,13200,Uplifted 14.78% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+914070101,9,Himachal Pradesh,14.78%,15900,Uplifted 14.78% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+90508100,9,Himachal Pradesh,14.77%,15200,Uplifted 14.77% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+170008100,17,Mizoram,14.77%,14550,Uplifted 14.77% in Mizoram due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+826030112,8,Haryana,14.77%,13200,Uplifted 14.77% in Haryana due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+290603100,29,Chandigarh,14.76%,14550,Uplifted 14.76% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2014160111,20,Punjab,14.76%,13200,Uplifted 14.76% in Punjab due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+82501111,8,Haryana,14.73%,7800,Uplifted 14.73% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 9 months.,700,0,0,1
+2308060101,23,Telangana,14.72%,13200,Uplifted 14.72% in Telangana due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+101405111,10,Jharkhand,14.7%,12300,Uplifted 14.7% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2108080101,21,Rajasthan,14.7%,13200,Uplifted 14.7% in Rajasthan due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+3324050101,33,Lakshadweep,14.69%,11850,Uplifted 14.69% in Lakshadweep due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+2204020111,22,Tamil Nadu,14.68%,15900,Uplifted 14.68% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+95002100,9,Himachal Pradesh,14.68%,14300,Uplifted 14.68% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+211801111,21,Rajasthan,14.67%,15900,Uplifted 14.67% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+201414100,20,Punjab,14.67%,13050,Uplifted 14.67% in Punjab due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+211060101,2,Arunachal Pradesh,14.67%,14550,Uplifted 14.67% in Arunachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+3212050101,32,Delhi,14.66%,14550,Uplifted 14.66% in Delhi due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+965010101,9,Himachal Pradesh,14.64%,16550,Uplifted 14.64% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+210601111,21,Rajasthan,14.64%,15200,Uplifted 14.64% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+3310050111,33,Lakshadweep,14.64%,14550,Uplifted 14.64% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+210801311,21,Rajasthan,14.64%,17900,Uplifted 14.64% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+160007111,16,Meghalaya,14.63%,16550,Uplifted 14.63% in Meghalaya due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2335030112,23,Telangana,14.63%,13200,Uplifted 14.63% in Telangana due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+233506100,23,Telangana,14.61%,10500,Uplifted 14.61% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+1503050201,15,Manipur,14.61%,13200,Uplifted 14.61% in Manipur due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+231502100,23,Telangana,14.6%,16550,Uplifted 14.6% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+232303231,23,Telangana,14.59%,10500,Uplifted 14.59% in Telangana due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+618100111,6,Goa,14.59%,11700,Uplifted 14.59% in Goa due to Cash Transfer (700) + Food Subsidy (600) for 9 months.,700,600,0,0
+807060201,8,Haryana,14.58%,14550,Uplifted 14.58% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+3315060101,33,Lakshadweep,14.58%,13200,Uplifted 14.58% in Lakshadweep due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+180202200,18,Nagaland,14.57%,14550,Uplifted 14.57% in Nagaland due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+232303271,23,Telangana,14.57%,14300,Uplifted 14.57% in Telangana due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+31101111,3,Assam,14.56%,16550,Uplifted 14.56% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+320607200,32,Delhi,14.56%,8900,Uplifted 14.56% in Delhi due to Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,0,600,1,1
+96506200,9,Himachal Pradesh,14.55%,15900,Uplifted 14.55% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+923050101,9,Himachal Pradesh,14.54%,12300,Uplifted 14.54% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2129020101,21,Rajasthan,14.54%,13200,Uplifted 14.54% in Rajasthan due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+212303100,21,Rajasthan,14.53%,15900,Uplifted 14.53% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2905330111,29,Chandigarh,14.53%,16550,Uplifted 14.53% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+602060101,6,Goa,14.53%,14550,Uplifted 14.53% in Goa due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+211802212,21,Rajasthan,14.53%,14550,Uplifted 14.53% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+291931211,29,Chandigarh,14.53%,14550,Uplifted 14.53% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+95902200,9,Himachal Pradesh,14.53%,12300,Uplifted 14.53% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+940030101,9,Himachal Pradesh,14.52%,13200,Uplifted 14.52% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+208060201,2,Arunachal Pradesh,14.51%,12300,Uplifted 14.51% in Arunachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+101202111,10,Jharkhand,14.51%,17900,Uplifted 14.51% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+220803100,22,Tamil Nadu,14.51%,14550,Uplifted 14.51% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2723070101,27,West Bengal,14.51%,11700,Uplifted 14.51% in West Bengal due to Cash Transfer (1000) + Food Subsidy (300) for 9 months.,1000,300,0,0
+824030212,8,Haryana,14.5%,12300,Uplifted 14.5% in Haryana due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+815050112,8,Haryana,14.5%,15200,Uplifted 14.5% in Haryana due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+210901211,21,Rajasthan,14.49%,16550,Uplifted 14.49% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+1707030101,17,Mizoram,14.49%,14550,Uplifted 14.49% in Mizoram due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2926350111,29,Chandigarh,14.49%,15200,Uplifted 14.49% in Chandigarh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+331203100,33,Lakshadweep,14.49%,14550,Uplifted 14.49% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2012060101,20,Punjab,14.48%,14550,Uplifted 14.48% in Punjab due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2013090101,20,Punjab,14.48%,13200,Uplifted 14.48% in Punjab due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+94003100,9,Himachal Pradesh,14.48%,15200,Uplifted 14.48% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+210811111,21,Rajasthan,14.47%,12500,Uplifted 14.47% in Rajasthan due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+2713030111,27,West Bengal,14.47%,15900,Uplifted 14.47% in West Bengal due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+211803200,21,Rajasthan,14.46%,10500,Uplifted 14.46% in Rajasthan due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+210903200,21,Rajasthan,14.46%,15200,Uplifted 14.46% in Rajasthan due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+291104200,29,Chandigarh,14.46%,14550,Uplifted 14.46% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+90102112,9,Himachal Pradesh,14.45%,10500,Uplifted 14.45% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+2412070101,24,Tripura,14.45%,16550,Uplifted 14.45% in Tripura due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+2320010112,23,Telangana,14.44%,15900,Uplifted 14.44% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+83207200,8,Haryana,14.44%,7800,Uplifted 14.44% in Haryana due to Cash Transfer (700) + Nrega Program (1) for 9 months.,700,0,0,1
+180606200,18,Nagaland,14.43%,10500,Uplifted 14.43% in Nagaland due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+2421030101,24,Tripura,14.43%,14550,Uplifted 14.43% in Tripura due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+206060101,2,Arunachal Pradesh,14.43%,13200,Uplifted 14.43% in Arunachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+2305060201,23,Telangana,14.42%,13850,Uplifted 14.42% in Telangana due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+929020101,9,Himachal Pradesh,14.42%,13200,Uplifted 14.42% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+929010101,9,Himachal Pradesh,14.42%,13200,Uplifted 14.42% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+71023100,7,Gujarat,14.41%,13050,Uplifted 14.41% in Gujarat due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+330506100,33,Lakshadweep,14.41%,14300,Uplifted 14.41% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+2804060101,28,Andaman and Nicobar Islands,14.4%,12300,Uplifted 14.4% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2320060101,23,Telangana,14.39%,14550,Uplifted 14.39% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+95404100,9,Himachal Pradesh,14.38%,12500,Uplifted 14.38% in Himachal Pradesh due to Cash Transfer (1000) + Training Program (1) + Nrega Program (1) for 9 months.,1000,0,1,1
+2207020111,22,Tamil Nadu,14.38%,14550,Uplifted 14.38% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+30106200,3,Assam,14.38%,14300,Uplifted 14.38% in Assam due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+230502112,23,Telangana,14.37%,14550,Uplifted 14.37% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2323030111,23,Telangana,14.36%,15900,Uplifted 14.36% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+1002010111,10,Jharkhand,14.36%,13200,Uplifted 14.36% in Jharkhand due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+96701312,9,Himachal Pradesh,14.36%,12300,Uplifted 14.36% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+2905360111,29,Chandigarh,14.35%,13200,Uplifted 14.35% in Chandigarh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+30403100,3,Assam,14.34%,16400,Uplifted 14.34% in Assam due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) for 9 months.,1000,600,1,0
+1022010111,10,Jharkhand,14.34%,14550,Uplifted 14.34% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2312080112,23,Telangana,14.33%,14550,Uplifted 14.33% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2927030101,29,Chandigarh,14.33%,11850,Uplifted 14.33% in Chandigarh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+80706200,8,Haryana,14.33%,14550,Uplifted 14.33% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2210120101,22,Tamil Nadu,14.32%,14550,Uplifted 14.32% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2337010131,23,Telangana,14.31%,16400,Uplifted 14.31% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) for 9 months.,1000,600,1,0
+2210130101,22,Tamil Nadu,14.31%,13200,Uplifted 14.31% in Tamil Nadu due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+60203111,6,Goa,14.29%,8900,Uplifted 14.29% in Goa due to Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,0,600,1,1
+2802140109,28,Andaman and Nicobar Islands,14.29%,13050,Uplifted 14.29% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+2917080101,29,Chandigarh,14.29%,11700,Uplifted 14.29% in Chandigarh due to Cash Transfer (700) + Food Subsidy (600) for 9 months.,700,600,0,0
+81501121,8,Haryana,14.29%,14550,Uplifted 14.29% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1104060102,11,Karnataka,14.28%,11850,Uplifted 14.28% in Karnataka due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+1104030101,11,Karnataka,14.28%,12300,Uplifted 14.28% in Karnataka due to Cash Transfer (1000) + Food Subsidy (200) + Nrega Program (1) for 9 months.,1000,200,0,1
+250003200,25,Uttar Pradesh,14.27%,14300,Uplifted 14.27% in Uttar Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+81203100,8,Haryana,14.27%,14400,Uplifted 14.27% in Haryana due to Cash Transfer (1000) + Food Subsidy (600) for 9 months.,1000,600,0,0
+320801200,32,Delhi,14.27%,14550,Uplifted 14.27% in Delhi due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+929030201,9,Himachal Pradesh,14.27%,13200,Uplifted 14.27% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+331218200,33,Lakshadweep,14.26%,11700,Uplifted 14.26% in Lakshadweep due to Cash Transfer (700) + Food Subsidy (600) for 9 months.,700,600,0,0
+2207010131,22,Tamil Nadu,14.26%,9800,Uplifted 14.26% in Tamil Nadu due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 9 months.,700,0,1,1
+30206100,3,Assam,14.26%,14550,Uplifted 14.26% in Assam due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+233801100,23,Telangana,14.26%,14400,Uplifted 14.26% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) for 9 months.,1000,600,0,0
+290206100,29,Chandigarh,14.25%,9000,Uplifted 14.25% in Chandigarh due to Cash Transfer (1000) for 9 months.,1000,0,0,0
+2407090101,24,Tripura,14.25%,15900,Uplifted 14.25% in Tripura due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+710280109,7,Gujarat,14.25%,15900,Uplifted 14.25% in Gujarat due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+1002070101,10,Jharkhand,14.25%,14550,Uplifted 14.25% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+311070201,3,Assam,14.24%,14400,Uplifted 14.24% in Assam due to Cash Transfer (1000) + Food Subsidy (600) for 9 months.,1000,600,0,0
+2734020101,27,West Bengal,14.24%,15900,Uplifted 14.24% in West Bengal due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+190915100,19,Odisha,14.24%,13050,Uplifted 14.24% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+3202040103,32,Delhi,14.24%,14550,Uplifted 14.24% in Delhi due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1014020111,10,Jharkhand,14.24%,15900,Uplifted 14.24% in Jharkhand due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2924090101,29,Chandigarh,14.23%,11850,Uplifted 14.23% in Chandigarh due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+273009100,27,West Bengal,14.22%,13050,Uplifted 14.22% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+929040101,9,Himachal Pradesh,14.21%,15900,Uplifted 14.21% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+923040101,9,Himachal Pradesh,14.19%,13200,Uplifted 14.19% in Himachal Pradesh due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+610010121,6,Goa,14.19%,15900,Uplifted 14.19% in Goa due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+1912080101,19,Odisha,14.19%,15200,Uplifted 14.19% in Odisha due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+2114040121,21,Rajasthan,14.18%,15200,Uplifted 14.18% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (300) + Training Program (1) + Nrega Program (1) for 9 months.,1000,300,1,1
+2422050101,24,Tripura,14.18%,6300,Uplifted 14.18% in Tripura due to Cash Transfer (700) for 9 months.,700,0,0,0
+273204111,27,West Bengal,14.17%,9800,Uplifted 14.17% in West Bengal due to Cash Transfer (700) + Training Program (1) + Nrega Program (1) for 9 months.,700,0,1,1
+2410010112,24,Tripura,14.16%,15900,Uplifted 14.16% in Tripura due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+2313020111,23,Telangana,14.16%,15900,Uplifted 14.16% in Telangana due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+331203200,33,Lakshadweep,14.15%,10500,Uplifted 14.15% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+3001040101,30,Dadra and Nagar Haveli,14.15%,11850,Uplifted 14.15% in Dadra and Nagar Haveli due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+60205100,6,Goa,14.14%,14550,Uplifted 14.14% in Goa due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+210901121,21,Rajasthan,14.14%,17900,Uplifted 14.14% in Rajasthan due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+301070201,3,Assam,14.14%,15900,Uplifted 14.14% in Assam due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+201040111,2,Arunachal Pradesh,14.13%,15900,Uplifted 14.13% in Arunachal Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+3329060103,33,Lakshadweep,14.13%,14550,Uplifted 14.13% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+270705111,27,West Bengal,14.12%,14550,Uplifted 14.12% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+280106100,28,Andaman and Nicobar Islands,14.12%,16550,Uplifted 14.12% in Andaman and Nicobar Islands due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+91406100,9,Himachal Pradesh,14.12%,14300,Uplifted 14.12% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+20503222,2,Arunachal Pradesh,14.12%,3500,Uplifted 14.12% in Arunachal Pradesh due to Training Program (1) + Nrega Program (1) for 9 months.,0,0,1,1
+948020202,9,Himachal Pradesh,14.11%,14550,Uplifted 14.11% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2014030201,20,Punjab,14.11%,17900,Uplifted 14.11% in Punjab due to Cash Transfer (1000) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,1000,600,1,1
+95102100,9,Himachal Pradesh,14.11%,10500,Uplifted 14.11% in Himachal Pradesh due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+2703010221,27,West Bengal,14.11%,13200,Uplifted 14.11% in West Bengal due to Cash Transfer (700) + Food Subsidy (600) + Nrega Program (1) for 9 months.,700,600,0,1
+3324060101,33,Lakshadweep,14.11%,11700,Uplifted 14.11% in Lakshadweep due to Cash Transfer (700) + Food Subsidy (600) for 9 months.,700,600,0,0
+2903010101,29,Chandigarh,14.11%,14550,Uplifted 14.11% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2328060201,23,Telangana,14.1%,14550,Uplifted 14.1% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+2920210109,29,Chandigarh,14.1%,14550,Uplifted 14.1% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+330102200,33,Lakshadweep,14.1%,10500,Uplifted 14.1% in Lakshadweep due to Cash Transfer (1000) + Nrega Program (1) for 9 months.,1000,0,0,1
+3330080201,33,Lakshadweep,14.1%,14550,Uplifted 14.1% in Lakshadweep due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+291802100,29,Chandigarh,14.09%,16550,Uplifted 14.09% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+190601141,19,Odisha,14.09%,14550,Uplifted 14.09% in Odisha due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+232006200,23,Telangana,14.08%,16550,Uplifted 14.08% in Telangana due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+130003200,13,Madhya Pradesh,14.08%,3500,Uplifted 14.08% in Madhya Pradesh due to Training Program (1) + Nrega Program (1) for 9 months.,0,0,1,1
+160001100,16,Meghalaya,14.08%,10800,Uplifted 14.08% in Meghalaya due to Cash Transfer (1000) + Food Subsidy (200) for 9 months.,1000,200,0,0
+967010212,9,Himachal Pradesh,14.08%,16550,Uplifted 14.08% in Himachal Pradesh due to Cash Transfer (1000) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,1000,450,1,1
+1906100101,19,Odisha,14.08%,15900,Uplifted 14.08% in Odisha due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+160008200,16,Meghalaya,14.07%,14550,Uplifted 14.07% in Meghalaya due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+804010114,8,Haryana,14.07%,11850,Uplifted 14.07% in Haryana due to Cash Transfer (700) + Food Subsidy (450) + Nrega Program (1) for 9 months.,700,450,0,1
+1204080201,12,Kerala,14.07%,15900,Uplifted 14.07% in Kerala due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+291103200,29,Chandigarh,14.06%,14550,Uplifted 14.06% in Chandigarh due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1814020101,18,Nagaland,14.06%,13050,Uplifted 14.06% in Nagaland due to Cash Transfer (1000) + Food Subsidy (450) for 9 months.,1000,450,0,0
+824100101,8,Haryana,14.06%,13850,Uplifted 14.06% in Haryana due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+81308200,8,Haryana,14.06%,14550,Uplifted 14.06% in Haryana due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1306020201,13,Madhya Pradesh,14.05%,15900,Uplifted 14.05% in Madhya Pradesh due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+273007100,27,West Bengal,14.05%,14550,Uplifted 14.05% in West Bengal due to Cash Transfer (1000) + Food Subsidy (450) + Nrega Program (1) for 9 months.,1000,450,0,1
+1909220121,19,Odisha,14.05%,15200,Uplifted 14.05% in Odisha due to Cash Transfer (700) + Food Subsidy (600) + Training Program (1) + Nrega Program (1) for 9 months.,700,600,1,1
+191003122,19,Odisha,14.05%,15900,Uplifted 14.05% in Odisha due to Cash Transfer (1000) + Food Subsidy (600) + Nrega Program (1) for 9 months.,1000,600,0,1
+232002121,23,Telangana,14.05%,13850,Uplifted 14.05% in Telangana due to Cash Transfer (700) + Food Subsidy (450) + Training Program (1) + Nrega Program (1) for 9 months.,700,450,1,1
+2210020211,22,Tamil Nadu,14.04%,13200,Uplifted 14.04% in Tamil Nadu due to Cash Transfer (1000) + Food Subsidy (300) + Nrega Program (1) for 9 months.,1000,300,0,1
+20202111,2,Arunachal Pradesh,14.04%,14300,Uplifted 14.04% in Arunachal Pradesh due to Cash Transfer (1000) + Food Subsidy (200) + Training Program (1) + Nrega Program (1) for 9 months.,1000,200,1,1
+290901200,29,Chandigarh,13.86%,3500,Uplifted 13.86% in Chandigarh due to Training Program (1) + Nrega Program (1) for 9 months.,0,0,1,1
+804070101,8,Haryana,12.36%,1500,Uplifted 12.36% in Haryana due to Nrega Program (1) for 9 months.,0,0,0,1
