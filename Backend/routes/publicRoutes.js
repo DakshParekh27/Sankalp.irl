@@ -1,13 +1,13 @@
-import express from 'express';
-import pool from '../config/db.js';
+const express = require('express');
+const db = require('../config/db');
 
 const router = express.Router();
 
 router.get('/meta', async (req, res) => {
     try {
-        const citiesRes = await pool.query('SELECT id, city_name FROM cities ORDER BY city_name');
-        const wardsRes = await pool.query('SELECT id, ward_name, ward_number, city_id FROM wards ORDER BY ward_name');
-        const bodiesRes = await pool.query('SELECT id, name FROM civic_bodies ORDER BY id');
+        const citiesRes = await db.query('SELECT id, city_name FROM cities ORDER BY city_name');
+        const wardsRes = await db.query('SELECT id, ward_name, ward_number, city_id FROM wards ORDER BY ward_name');
+        const bodiesRes = await db.query('SELECT id, name FROM civic_bodies ORDER BY id');
 
         res.json({
             cities: citiesRes.rows,
@@ -20,4 +20,4 @@ router.get('/meta', async (req, res) => {
     }
 });
 
-export default router;
+module.exports = router;
