@@ -6,7 +6,7 @@ services:
       context: ./Backend
       dockerfile: Dockerfile
     ports:
-      - "5000:5000"
+      - "5001:5000"
     volumes:
       - ./Backend:/app
       - /app/node_modules
@@ -15,6 +15,17 @@ services:
     depends_on:
       db:
         condition: service_healthy
+      ai-service:
+        condition: service_started
+
+  ai-service:
+    build:
+      context: ./services/ai-service
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./services/ai-service:/app
 
   frontend:
     build:
@@ -33,11 +44,11 @@ services:
       context: ./Feature3
       dockerfile: Dockerfile
     ports:
-      - "8080:8080"
+      - "8081:8080"
     volumes:
       - ./Feature3:/app
-    environment:
-      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    env_file:
+      - ./Backend/.env
     depends_on:
       - backend
 
@@ -57,6 +68,15 @@ services:
       interval: 5s
       timeout: 5s
       retries: 5
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+    depends_on:
+      db:
+        condition: service_healthy
 
 volumes:
   db_data:
