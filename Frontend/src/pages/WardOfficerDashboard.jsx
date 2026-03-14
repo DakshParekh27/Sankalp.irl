@@ -101,7 +101,11 @@ const WardOfficerDashboard = () => {
                                     <div>
                                         <div className="flex items-center space-x-3">
                                             {complaint.status === 'in_progress' ? (
-                                                <span className="bg-amber-500/20 text-amber-500 border border-amber-500/20 text-xs px-2.5 py-1 rounded-full font-bold uppercase">In Progress</span>
+                                                complaint.ai_feedback && complaint.ai_feedback.startsWith('REJECTED') ? (
+                                                    <span className="bg-rose-500/20 text-rose-400 border border-rose-500/20 text-xs px-2.5 py-1 rounded-full font-bold uppercase whitespace-nowrap">Proof Rejected</span>
+                                                ) : (
+                                                    <span className="bg-amber-500/20 text-amber-500 border border-amber-500/20 text-xs px-2.5 py-1 rounded-full font-bold uppercase whitespace-nowrap">In Progress</span>
+                                                )
                                             ) : complaint.status === 'rejected' ? (
                                                 <span className="bg-rose-500/20 text-rose-400 border border-rose-500/20 text-xs px-2.5 py-1 rounded-full font-bold uppercase">Rejected</span>
                                             ) : complaint.status === 'flagged_for_review' ? (
@@ -153,7 +157,7 @@ const WardOfficerDashboard = () => {
                                 <div className="h-40 w-full bg-slate-800 rounded-lg overflow-hidden border border-white/5 flex items-center justify-center">
                                     {selectedComplaint.image_url ? (
                                         <img 
-                                            src={selectedComplaint.image_url.startsWith('http') ? selectedComplaint.image_url : `http://localhost:5000${selectedComplaint.image_url}`} 
+                                            src={selectedComplaint.image_url.startsWith('http') ? selectedComplaint.image_url : `http://localhost:5001${selectedComplaint.image_url}`} 
                                             alt="Before" 
                                             className="w-full h-full object-cover" 
                                         />
@@ -189,13 +193,13 @@ const WardOfficerDashboard = () => {
                                     <div className={`p-4 rounded-xl text-sm border ${
                                         (verificationResult?.new_status || selectedComplaint.status) === 'resolved' 
                                         ? 'bg-emerald-500/10 border-emerald-500/20 text-emerald-400' 
-                                        : (verificationResult?.new_status || selectedComplaint.status) === 'rejected'
+                                        : (selectedComplaint.status === 'in_progress' && selectedComplaint.ai_feedback?.startsWith('REJECTED'))
                                         ? 'bg-rose-500/10 border-rose-500/20 text-rose-400'
                                         : 'bg-blue-500/10 border-blue-500/20 text-blue-400'
                                     }`}>
                                         <p className="font-bold mb-2">
                                             {(verificationResult?.new_status || selectedComplaint.status) === 'resolved' ? '✅ Status: Resolved' : 
-                                             (verificationResult?.new_status || selectedComplaint.status) === 'rejected' ? '❌ Status: Rejected by Admin' : 
+                                             (selectedComplaint.status === 'in_progress' && selectedComplaint.ai_feedback?.startsWith('REJECTED')) ? '❌ Status: Proof Rejected by Admin' : 
                                              '⚠️ Status: Awaiting Review'}
                                         </p>
                                         <div className="bg-black/20 p-3 rounded border border-white/5 font-mono text-xs leading-relaxed">
