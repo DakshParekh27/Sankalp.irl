@@ -16,7 +16,10 @@ const complaintsController = require('../controllers/complaintsController');
 const { authenticateToken, restrictToRole } = require('../middleware/authMiddleware');
 
 // Anyone logged in can create a complaint
-router.post('/create', authenticateToken, restrictToRole(['user', 'ward_staff', 'admin']), upload.single('image'), complaintsController.createComplaint);
+router.post('/create', authenticateToken, restrictToRole(['user', 'ward_staff', 'admin']), upload.fields([{ name: 'image', maxCount: 1 }, { name: 'audio', maxCount: 1 }]), complaintsController.createComplaint);
+
+// Anyone logged in as a user can fetch their own complaints
+router.get('/my', authenticateToken, restrictToRole(['user']), complaintsController.getMyComplaints);
 
 // Read-only map routes or dashboard routes (secured)
 router.get('/city/:city_id', authenticateToken, restrictToRole(['admin', 'ward_staff']), complaintsController.getComplaintsByCity);

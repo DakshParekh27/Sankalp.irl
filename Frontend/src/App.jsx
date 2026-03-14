@@ -39,7 +39,10 @@ const Navigation = () => {
                     <button onClick={handleLogout} className="text-red-400 hover:text-red-300 hover:bg-red-500/10 px-3 py-2 rounded-lg text-sm font-medium transition-all ml-4">Logout</button>
                   </>
               ) : (
-                  <Link to="/login" className="bg-indigo-600 hover:bg-indigo-500 text-white px-4 py-2 rounded-xl text-sm font-bold transition-all ml-4 shadow-lg shadow-indigo-500/30">Sign In</Link>
+                  <div className="flex items-center space-x-2 ml-4">
+                    <Link to="/login" className="text-slate-300 hover:text-white px-4 py-2 rounded-xl text-sm font-bold transition-all">Sign In</Link>
+                    <Link to="/signup" className="bg-indigo-600 hover:bg-indigo-500 text-white px-4 py-2 rounded-xl text-sm font-bold transition-all shadow-lg shadow-indigo-500/30">Sign Up</Link>
+                  </div>
               )}
             </div>
           </div>
