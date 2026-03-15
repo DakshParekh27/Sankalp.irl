@@ -21,8 +21,11 @@ RUN npm install
 # Copy the rest of the application files
 COPY . .
 
+# Make the entrypoint script executable
+RUN chmod +x docker-entrypoint.sh
+
 # Expose the Express server port
 EXPOSE 5000
 
-# Start the application with nodemon for auto-reloading
-CMD ["npx", "nodemon", "server.js"]
+# Use entrypoint that runs schema migration then starts the server
+CMD ["sh", "docker-entrypoint.sh"]
