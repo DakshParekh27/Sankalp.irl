@@ -1,8 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { Camera, Mic, MapPin, AlertCircle, CheckCircle, Upload, Megaphone } from 'lucide-react';
 import api from '../utils/api';
+import { useAuth } from '../context/AuthContext';
+import LocationPickerModal from '../components/LocationPickerModal';
+import CivicHeatmap from '../components/CivicHeatmap';
 
 const CitizenPortal = () => {
+    const { user } = useAuth();
     const [complaintText, setComplaintText] = useState('');
     const [imageFile, setImageFile] = useState(null);
     const [audioFile, setAudioFile] = useState(null);
@@ -10,6 +14,16 @@ const CitizenPortal = () => {
     const [success, setSuccess] = useState(false);
     const [aiCategory, setAiCategory] = useState('');
     const [recentComplaints, setRecentComplaints] = useState([]);
+
+    // Location Modal State
+    const [showLocationModal, setShowLocationModal] = useState(false);
+
+    // Enforce location picker
+    useEffect(() => {
+        if (user && !user.ward_id) {
+            setShowLocationModal(true);
+        }
+    }, [user]);
 
     const fetchComplaints = async () => {
         try {
@@ -59,9 +73,12 @@ const CitizenPortal = () => {
         if (imageFile) formData.append('image', imageFile);
         if (audioFile) formData.append('audio', audioFile);
 
-        // Mock location for demo purposes (Delhi Central)
-        formData.append('latitude', 28.6139);
-        formData.append('longitude', 77.2090);
+        // Append real location instead of mock
+        formData.append('latitude', user?.latitude || 28.6139);
+        formData.append('longitude', user?.longitude || 77.2090);
+        if (user?.ward_id) {
+            formData.append('ward_id', user.ward_id);
+        }
 
         try {
             const res = await api.post('/complaints/create', formData, {
@@ -90,6 +107,14 @@ const CitizenPortal = () => {
 
     return (
         <div className="w-full max-w-7xl mx-auto p-4 md:p-6 lg:p-8 space-y-6">
+
+            {/* Location Picker Modal */}
+            {showLocationModal && (
+                <LocationPickerModal 
+                    onClose={() => setShowLocationModal(false)} 
+                    forceOpen={!user?.ward_id} 
+                />
+            )}
 
             {/* Header and Trust Score */}
             <div className="flex flex-col md:flex-row justify-between items-center bg-slate-900/50 backdrop-blur-sm p-4 rounded-xl border border-white/5 shadow-sm">
@@ -147,9 +172,16 @@ const CitizenPortal = () => {
                         ></textarea>
                     </div>
 
-                    <div className="flex items-center text-sm text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 p-3 rounded-lg">
-                        <MapPin className="w-4 h-4 mr-2" />
-                        <span>Location auto-detected: Ward 1 (Delhi Central)</span>
+                    <div className="flex items-center text-sm text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 p-3 rounded-lg justify-between cursor-pointer hover:bg-emerald-500/20 transition" onClick={() => setShowLocationModal(true)}>
+                        <div className="flex items-center">
+                            <MapPin className="w-4 h-4 mr-2" />
+                            <span>
+                                {user?.ward_id 
+                                    ? `Location auto-detected: Ward ${user.ward_id} (Delhi)` 
+                                    : 'Please set your location!'}
+                            </span>
+                        </div>
+                        <span className="text-xs font-bold underline">Edit</span>
                     </div>
 
                     <button
@@ -189,9 +221,15 @@ const CitizenPortal = () => {
 
                     <div className="bg-slate-900/50 backdrop-blur-sm rounded-2xl border border-white/5 p-5">
                         <h2 className="text-lg font-semibold text-white border-b border-white/10 pb-2 mb-4">Ward Transparency Map</h2>
-                        <div className="bg-slate-800/50 border border-slate-700 w-full h-48 rounded-xl flex flex-col items-center justify-center text-slate-500 font-medium overflow-hidden">
-                            <MapPin className="w-8 h-8 opacity-50 mb-2" />
-                            <span className="text-sm">Ward 1 Heatmap Data</span>
+                        <div className="bg-slate-800/50 border border-slate-700 w-full h-48 rounded-xl flex flex-col items-center justify-center text-slate-500 font-medium overflow-hidden relative">
+                            {user?.ward_id ? (
+                                <CivicHeatmap targetType="ward" targetId={user.ward_id} showPolygons={true} />
+                            ) : (
+                                <>
+                                    <MapPin className="w-8 h-8 opacity-50 mb-2" />
+                                    <span className="text-sm">Set location to view Ward Map</span>
+                                </>
+                            )}
                         </div>
                     </div>
                 </div>

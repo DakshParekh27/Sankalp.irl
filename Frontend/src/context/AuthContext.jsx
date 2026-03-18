@@ -72,6 +72,16 @@ export const AuthProvider = ({ children }) => {
         localStorage.removeItem('user');
     };
 
+    // Helper to update specific fields in current user (e.g. ward_id after location update)
+    const updateUser = (newFields) => {
+        setUser(prev => {
+            if (!prev) return prev;
+            const updated = { ...prev, ...newFields };
+            localStorage.setItem('user', JSON.stringify(updated));
+            return updated;
+        });
+    };
+
     const value = {
         user,
         token,
@@ -79,7 +89,8 @@ export const AuthProvider = ({ children }) => {
         isAuthenticated: !!token,
         login,
         signup,
-        logout
+        logout,
+        updateUser
     };
 
     return (
