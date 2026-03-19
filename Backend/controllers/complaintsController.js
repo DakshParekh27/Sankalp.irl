@@ -327,10 +327,10 @@ const verifyResolution = async (req, res) => {
 
         // Determine what status to assign based on the AI Response
         let newStatus = 'in_progress';
-        if (aiData.ai_generated || !aiData.resolved) {
-            newStatus = 'flagged_for_review'; // Admin must check this!
-        } else if (!aiData.ai_generated && aiData.resolved) {
-            newStatus = 'resolved'; // AI confirms it's fixed!
+        if (aiData.ai_generated || !aiData.resolved || aiData.confidence < 0.70) {
+            newStatus = 'flagged_for_review'; // Admin must check this if confidence is low!
+        } else if (!aiData.ai_generated && aiData.resolved && aiData.confidence >= 0.70) {
+            newStatus = 'resolved'; // AI confirms it's fixed with > 70% confidence!
         }
 
         console.log(`Determined new status for complaint ${complaint_id}: ${newStatus}`);
