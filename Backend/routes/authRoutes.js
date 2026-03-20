@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const authController = require('../controllers/authController');
+const { authenticateToken } = require('../middleware/authMiddleware');
 
 // Municipal Admin routes
 router.post('/admin/register', authController.registerAdmin);
@@ -13,5 +14,6 @@ router.post('/ward/login', authController.loginWardStaff);
 // User (Citizen) routes
 router.post('/user/register', authController.registerUser);
 router.post('/user/login', authController.loginUser);
+router.patch('/user/update-location', authenticateToken, authController.updateUserLocation);
 
 module.exports = router;

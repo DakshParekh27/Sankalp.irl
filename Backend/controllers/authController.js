@@ -1,6 +1,7 @@
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const db = require('../config/db');
+const wardService = require('../services/wardService');
 require('dotenv').config();
 
 const generateToken = (payload) => {
@@ -161,16 +162,60 @@ const loginUser = async (req, res) => {
             return res.status(401).json({ message: 'Invalid credentials' });
         }
 
-        const token = generateToken({ id: user.id, role: 'user' });
-        res.json({ token, user: { id: user.id, email: user.email, trust_score: user.trust_score } });
+        const token = generateToken({ id: user.id, role: 'user', ward_id: user.ward_id });
+        res.json({ token, user: { 
+            id: user.id, 
+            email: user.email, 
+            trust_score: user.trust_score,
+            ward_id: user.ward_id,
+            latitude: user.latitude,
+            longitude: user.longitude
+        } });
     } catch (error) {
         console.error(error);
         res.status(500).json({ message: 'Server error during login' });
     }
 };
 
+
+const updateUserLocation = async (req, res) => {
+    try {
+        const { latitude, longitude } = req.body;
+        const userId = req.user.id; 
+
+        if (!latitude || !longitude) {
+            return res.status(400).json({ message: 'Latitude and longitude are required' });
+        }
+
+        let wardId = await wardService.findWardByCoordinates(latitude, longitude);
+        
+        let assignedMsg = 'Ward updated successfully';
+        if (!wardId) {
+            console.warn(`[Location] Coordinates ${latitude},${longitude} not within any ward polygon. Assigning fallback Ward 1.`);
+            wardId = 1; 
+            assignedMsg = 'Location falls outside defined ward bounds. Assigned fallback Ward 1.';
+        }
+
+        await db.query(
+            'UPDATE users SET latitude = $1, longitude = $2, ward_id = $3 WHERE id = $4',
+            [latitude, longitude, wardId, userId]
+        );
+
+        res.json({
+            message: assignedMsg,
+            latitude,
+            longitude,
+            ward_id: wardId
+        });
+    } catch (error) {
+        console.error('Update Location Error:', error);
+        res.status(500).json({ message: 'Server error updating location' });
+    }
+};
+
 module.exports = {
     registerAdmin, loginAdmin,
     registerWardStaff, loginWardStaff,
-    registerUser, loginUser
+    registerUser, loginUser,
+    updateUserLocation
 };
