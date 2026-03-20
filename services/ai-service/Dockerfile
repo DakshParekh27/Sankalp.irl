@@ -12,7 +12,7 @@ WORKDIR /app
 
 COPY requirements.txt .
 
-RUN pip install --no-cache-dir -r requirements.txt
+RUN --mount=type=cache,target=/root/.cache/pip pip install -r requirements.txt
 
 # The models are quite large and download at runtime.
 # Running them once during build pre-downloads the models.

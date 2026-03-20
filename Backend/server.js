@@ -8,6 +8,8 @@ const mapRoutes = require('./routes/mapRoutes');
 const publicRoutes = require('./routes/publicRoutes');
 const welfareRoutes = require('./routes/welfareRoutes');
 const communicationRoutes = require('./routes/communicationRoutes');
+const newsRoutes = require('./routes/newsRoutes');
+const newsService = require('./services/newsService');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -24,6 +26,7 @@ app.use('/map', mapRoutes);
 app.use('/public', publicRoutes);
 app.use('/welfare', welfareRoutes);
 app.use('/communication', communicationRoutes);
+app.use('/news', newsRoutes);
 
 // Basic Route for Healthcheck
 app.get('/', (req, res) => {
@@ -33,4 +36,5 @@ app.get('/', (req, res) => {
 // Start Server
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
+    newsService.startCronJobs();
 });
