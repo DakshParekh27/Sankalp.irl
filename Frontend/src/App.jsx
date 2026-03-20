@@ -11,6 +11,7 @@ import MunicipalAdminDashboard from './pages/MunicipalAdminDashboard';
 import PublicFeed from './pages/PublicFeed';
 import Login from './pages/auth/Login';
 import Signup from './pages/auth/Signup';
+import NewsVerification from './pages/NewsVerification';
 
 const Navigation = () => {
   const { isAuthenticated, logout } = useAuth();
@@ -33,6 +34,7 @@ const Navigation = () => {
             <div className="hidden md:flex items-center space-x-1">
               <Link to="/" className="text-slate-300 hover:text-white hover:bg-slate-800 px-3 py-2 rounded-lg text-sm font-medium transition-all">Home</Link>
               <Link to="/public-feed" className="text-slate-300 hover:text-white hover:bg-slate-800 px-3 py-2 rounded-lg text-sm font-medium transition-all">Public Feed</Link>
+              <Link to="/news-verification" className="bg-indigo-500/10 border border-indigo-500/20 text-indigo-300 hover:text-white hover:bg-indigo-500/20 px-3 py-2 rounded-lg text-sm font-bold transition-all ml-1 flex items-center shadow-inner">🟢 Verified News</Link>
               {isAuthenticated ? (
                   <>
                     <Link to="/citizen" className="text-slate-300 hover:text-white hover:bg-slate-800 px-3 py-2 rounded-lg text-sm font-medium transition-all">Citizen Portal</Link>
@@ -68,6 +70,7 @@ function App() {
               {/* Public Routes */}
               <Route path="/" element={<Home />} />
               <Route path="/public-feed" element={<PublicFeed />} />
+              <Route path="/news-verification" element={<NewsVerification />} />
               <Route path="/login" element={<Login />} />
               <Route path="/signup" element={<Signup />} />
 
