@@ -124,3 +124,22 @@ CREATE TABLE IF NOT EXISTS public_updates (
     update_type VARCHAR(50) NOT NULL CHECK (update_type IN ('status_update', 'citizen_notification', 'ward_summary')),
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
+
+-- 9. Update Reactions Table
+CREATE TABLE IF NOT EXISTS update_reactions (
+    id SERIAL PRIMARY KEY,
+    update_id INTEGER REFERENCES public_updates(id) ON DELETE CASCADE,
+    user_id INTEGER REFERENCES users(id) ON DELETE CASCADE,
+    reaction_type VARCHAR(10) CHECK (reaction_type IN ('like', 'dislike')),
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE(update_id, user_id)
+);
+
+-- 10. Feedback Table
+CREATE TABLE IF NOT EXISTS feedback (
+    id SERIAL PRIMARY KEY,
+    update_id INTEGER REFERENCES public_updates(id) ON DELETE CASCADE,
+    user_id INTEGER REFERENCES users(id) ON DELETE CASCADE,
+    comment TEXT NOT NULL,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
