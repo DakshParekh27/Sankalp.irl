@@ -28,7 +28,24 @@ const restrictToRole = (roles) => {
     };
 };
 
+const optionalAuthenticateToken = (req, res, next) => {
+    const authHeader = req.headers['authorization'];
+    const token = authHeader && authHeader.split(' ')[1];
+
+    if (token) {
+        try {
+            const decoded = jwt.verify(token, process.env.JWT_SECRET);
+            req.user = decoded;
+        } catch (err) {
+            // Invalid token, but we don't block access for optional routes
+            console.log("Optional auth token invalid:", err.message);
+        }
+    }
+    next();
+};
+
 module.exports = {
     authenticateToken,
+    optionalAuthenticateToken,
     restrictToRole
 };
