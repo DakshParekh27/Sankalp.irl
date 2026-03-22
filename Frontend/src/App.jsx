@@ -12,9 +12,10 @@ import PublicFeed from './pages/PublicFeed';
 import Login from './pages/auth/Login';
 import Signup from './pages/auth/Signup';
 import NewsVerification from './pages/NewsVerification';
+import LokSahayak from './pages/LokSahayak';
 
 const Navigation = () => {
-  const { isAuthenticated, logout } = useAuth();
+  const { isAuthenticated, user, logout } = useAuth();
   const navigate = useNavigate();
 
   const handleLogout = () => {
@@ -34,12 +35,19 @@ const Navigation = () => {
             <div className="hidden md:flex items-center space-x-1">
               <Link to="/" className="text-[#6B7280] hover:text-[#1B3A6F] hover:bg-[#EEF2F7] px-3 py-2 rounded-lg text-sm font-medium transition-all">Home</Link>
               <Link to="/public-feed" className="text-[#6B7280] hover:text-[#1B3A6F] hover:bg-[#EEF2F7] px-3 py-2 rounded-lg text-sm font-medium transition-all">Public Feed</Link>
+              <Link to="/loksahayak" className="bg-[#FF9933]/10 border border-[#FF9933]/20 text-[#FF9933] hover:bg-[#FF9933]/20 px-3 py-2 rounded-lg text-sm font-bold transition-all ml-1 flex items-center">🟠 LokSahayak</Link>
               <Link to="/news-verification" className="bg-[#138808]/10 border border-[#138808]/20 text-[#138808] hover:bg-[#138808]/20 px-3 py-2 rounded-lg text-sm font-bold transition-all ml-1 flex items-center">🟢 Verified News</Link>
               {isAuthenticated ? (
                   <>
-                    <Link to="/citizen" className="text-[#6B7280] hover:text-[#1B3A6F] hover:bg-[#EEF2F7] px-3 py-2 rounded-lg text-sm font-medium transition-all">Citizen Portal</Link>
-                    <Link to="/ward-officer" className="text-[#6B7280] hover:text-[#1B3A6F] hover:bg-[#EEF2F7] px-3 py-2 rounded-lg text-sm font-medium transition-all">Ward Officer</Link>
-                    <Link to="/admin" className="text-[#6B7280] hover:text-[#1B3A6F] hover:bg-[#EEF2F7] px-3 py-2 rounded-lg text-sm font-medium transition-all">Admin</Link>
+                    {user?.role === 'user' && (
+                        <Link to="/citizen" className="text-[#6B7280] hover:text-[#1B3A6F] hover:bg-[#EEF2F7] px-3 py-2 rounded-lg text-sm font-medium transition-all">Citizen Portal</Link>
+                    )}
+                    {user?.role === 'ward_staff' && (
+                        <Link to="/ward-officer" className="text-[#6B7280] hover:text-[#1B3A6F] hover:bg-[#EEF2F7] px-3 py-2 rounded-lg text-sm font-medium transition-all">Ward Officer</Link>
+                    )}
+                    {user?.role === 'admin' && (
+                        <Link to="/admin" className="text-[#6B7280] hover:text-[#1B3A6F] hover:bg-[#EEF2F7] px-3 py-2 rounded-lg text-sm font-medium transition-all">Admin</Link>
+                    )}
                     <button onClick={handleLogout} className="text-[#DC2626] hover:bg-red-50 px-3 py-2 rounded-lg text-sm font-medium transition-all ml-4">Logout</button>
                   </>
               ) : (
@@ -70,6 +78,7 @@ function App() {
               {/* Public Routes */}
               <Route path="/" element={<Home />} />
               <Route path="/public-feed" element={<PublicFeed />} />
+              <Route path="/loksahayak" element={<LokSahayak />} />
               <Route path="/news-verification" element={<NewsVerification />} />
               <Route path="/login" element={<Login />} />
               <Route path="/signup" element={<Signup />} />
