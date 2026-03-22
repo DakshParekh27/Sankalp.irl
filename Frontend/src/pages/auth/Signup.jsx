@@ -120,23 +120,39 @@ const Signup = () => {
 
                         {(role === 'admin' || role === 'ward_staff') && (
                             <div>
-                                <label className="block text-sm font-medium text-[#1F2937] mb-1">City ID (Demo: 1 for Mumbai)</label>
-                                <input type="number" required value={cityId}
-                                    onChange={(e) => setCityId(Number(e.target.value))} className={inputClass} />
+                                <label className="block text-sm font-medium text-[#1F2937] mb-1">City</label>
+                                <select required value={cityId}
+                                    onChange={(e) => setCityId(Number(e.target.value))} className={inputClass}>
+                                    <option value={1}>Navi Mumbai (Demo Region)</option>
+                                    <option value={2}>Delhi NCR</option>
+                                    <option value={3}>Bangalore</option>
+                                </select>
                             </div>
                         )}
 
                         {role === 'ward_staff' && (
                             <>
                                 <div>
-                                    <label className="block text-sm font-medium text-[#1F2937] mb-1">Ward ID (Demo: 1 for Delhi Test Polygon)</label>
-                                    <input type="number" required value={wardId}
-                                        onChange={(e) => setWardId(Number(e.target.value))} className={inputClass} />
+                                    <label className="block text-sm font-medium text-[#1F2937] mb-1">Ward / Zone (Delhi Regions)</label>
+                                    <select required value={wardId}
+                                        onChange={(e) => setWardId(Number(e.target.value))} className={inputClass}>
+                                        {Array.from({ length: 36 }, (_, i) => i + 1).map(num => (
+                                            <option key={num} value={num}>
+                                                Ward {num} {num === 1 ? '(Delhi Test Polygon)' : ''}
+                                            </option>
+                                        ))}
+                                    </select>
                                 </div>
                                 <div>
-                                    <label className="block text-sm font-medium text-[#1F2937] mb-1">Civic Body/Dept ID (1=PWD, 2=Water...)</label>
-                                    <input type="number" required value={civicBodyId}
-                                        onChange={(e) => setCivicBodyId(Number(e.target.value))} className={inputClass} />
+                                    <label className="block text-sm font-medium text-[#1F2937] mb-1">Civic Department</label>
+                                    <select required value={civicBodyId}
+                                        onChange={(e) => setCivicBodyId(Number(e.target.value))} className={inputClass}>
+                                        <option value={1}>Public Works Department (PWD)</option>
+                                        <option value={2}>Water Supply & Sanitation</option>
+                                        <option value={3}>Electricity Board</option>
+                                        <option value={4}>Solid Waste Management</option>
+                                        <option value={5}>Parks & Gardens</option>
+                                    </select>
                                 </div>
                             </>
                         )}

@@ -121,6 +121,16 @@ const CivicHeatmap = ({ targetType, targetId, showPolygons = true }) => {
         dashArray: '5, 5'
     };
 
+    const onEachFeature = (feature, layer) => {
+        if (feature.properties && feature.properties.ward_id) {
+            layer.bindTooltip(`Ward ${feature.properties.ward_id}`, {
+                permanent: true,
+                direction: 'center',
+                className: '!bg-[#1F2937]/60 !backdrop-blur-sm !border !border-white/10 !text-white !font-bold !text-xs !rounded-full !px-3 !py-1 !shadow-lg'
+            });
+        }
+    };
+
     return (
         <MapContainer
             center={defaultCenter}
@@ -132,7 +142,7 @@ const CivicHeatmap = ({ targetType, targetId, showPolygons = true }) => {
                 attribution='&copy; <a href="https://carto.com/">CARTO</a>'
                 url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
             />
-            {geoJson && <GeoJSON data={geoJson} style={geoJsonStyle} />}
+            {geoJson && <GeoJSON data={geoJson} style={geoJsonStyle} onEachFeature={onEachFeature} />}
             {points.length > 0 && <HeatLayer points={points} />}
             {bounds && <MapFitter bounds={bounds} />}
         </MapContainer>
