@@ -35,4 +35,7 @@ router.post('/:id/verify-resolution', authenticateToken, restrictToRole(['ward_s
 // Admin only: Export ward analytics to Excel
 router.get('/admin/export-pending', authenticateToken, restrictToRole(['admin']), complaintsController.exportPendingWardsData);
 
+// Admin only: Email ward analytics and heatmap
+router.post('/admin/email-report', authenticateToken, restrictToRole(['admin']), complaintsController.sendEmailReport);
+
 module.exports = router;

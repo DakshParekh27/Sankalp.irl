@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { TrendingUp, Users, Activity, DollarSign, Award, AlertTriangle, CheckCircle, XCircle, BarChart2, Zap, RefreshCw, ThumbsUp, ThumbsDown, Download, FileText, Camera } from 'lucide-react';
+import { TrendingUp, Users, Activity, DollarSign, Award, AlertTriangle, CheckCircle, XCircle, BarChart2, Zap, RefreshCw, ThumbsUp, ThumbsDown, Download, FileText, Camera, Mail } from 'lucide-react';
 import { domToPng } from 'modern-screenshot';
 import api from '../utils/api';
 import { useAuth } from '../context/AuthContext';
@@ -307,6 +307,7 @@ const MunicipalAdminDashboard = () => {
     const [loadingFlags, setLoadingFlags] = useState(true);
     const [activeTab, setActiveTab] = useState('review');
     const [downloading, setDownloading] = useState(false);
+    const [reportEmail, setReportEmail] = useState(user?.gov_email || '');
 
     const handleDownloadExcel = async () => {
         try {
@@ -371,6 +372,47 @@ const MunicipalAdminDashboard = () => {
             setDownloading(false);
         }
     };
+
+    const handleEmailReport = async () => {
+        // We need the heatmap snapshot for the email
+        // Logic: switch to heatmap tab if not there, capture, then send
+        let heatmapUrl = null;
+        const mapElement = document.getElementById('city-heatmap-container');
+
+        try {
+            setDownloading(true);
+
+            if (!mapElement) {
+                // If map not visible, we might need to inform user or switch tab
+                alert("Please switch to the 'City Heatmap' tab first so we can capture the snapshot for your email.");
+                setDownloading(false);
+                setActiveTab('heatmap');
+                return;
+            }
+
+            // 1. Capture Heatmap
+            await new Promise(r => setTimeout(r, 1000));
+            heatmapUrl = await domToPng(mapElement, {
+                scale: 1.5, // Lower scale for email to keep size reasonable
+                quality: 0.8,
+                backgroundColor: '#0f172a'
+            });
+
+            // 2. Wrap and Send to Backend
+            await api.post('/complaints/admin/email-report', {
+                heatmapDataUrl: heatmapUrl,
+                targetEmail: reportEmail
+            });
+
+            alert(`Analytics report (Excel + Heatmap) has been successfully sent to ${reportEmail}`);
+        } catch (err) {
+            console.error("Email Report Failed:", err);
+            alert(err.response?.data?.message || "Failed to send email report.");
+        } finally {
+            setDownloading(false);
+        }
+    };
+
 
     useEffect(() => {
         const fetchFlaggedComplaints = async () => {
@@ -447,6 +489,24 @@ const MunicipalAdminDashboard = () => {
                         {downloading ? 'Capturing...' : 'Download Heatmap Snapshot'}
                     </button>
                 )}
+                
+                <div className="flex items-center gap-2 bg-[#F3F4F6] p-1.5 rounded-lg border border-[#E5E7EB] shadow-inner ml-auto">
+                    <input 
+                        type="email" 
+                        placeholder="Enter email to send report..." 
+                        value={reportEmail}
+                        onChange={(e) => setReportEmail(e.target.value)}
+                        className="bg-transparent border-none focus:ring-0 text-sm px-3 py-1.5 w-64 text-[#1F2937]"
+                    />
+                    <button 
+                        onClick={handleEmailReport}
+                        disabled={downloading || !reportEmail}
+                        className="flex items-center gap-2 bg-[#FF7A00] text-white px-4 py-1.5 rounded-lg text-sm font-semibold hover:bg-[#FF7A00]/90 transition shadow-sm disabled:opacity-50"
+                    >
+                        <Mail className="w-4 h-4" />
+                        {downloading ? 'Mailing...' : 'Send Analytics'}
+                    </button>
+                </div>
             </div>
 
             {/* Tab Navigation */}
