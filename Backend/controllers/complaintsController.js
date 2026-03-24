@@ -365,11 +365,21 @@ const verifyResolution = async (req, res) => {
             contentType: afterImageFile.mimetype
         });
 
-        // Simulating the before image (using the same buffer for now)
-        formData.append('before_image', afterImageFile.buffer, {
-            filename: 'mock_before.jpg',
-            contentType: 'image/jpeg'
-        });
+        // Fetch the actual before image from its stored Supabase URL
+        if (beforeImageUrl) {
+            try {
+                const beforeImageResponse = await axios.get(beforeImageUrl, { responseType: 'arraybuffer', timeout: 15000 });
+                formData.append('before_image', Buffer.from(beforeImageResponse.data), {
+                    filename: 'before_image.jpg',
+                    contentType: 'image/jpeg'
+                });
+            } catch (fetchErr) {
+                console.error(`Failed to fetch before image from ${beforeImageUrl}:`, fetchErr.message);
+                return res.status(400).json({ message: 'Could not fetch the original complaint image for comparison.' });
+            }
+        } else {
+            return res.status(400).json({ message: 'No original complaint image available for comparison.' });
+        }
 
         console.log(`Sending images (Buffers) to Python AI Server for complaint ${complaint_id}...`);
 

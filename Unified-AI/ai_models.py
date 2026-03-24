@@ -80,17 +80,43 @@ def verify_issue_resolution(before_image: Image.Image, after_image: Image.Image)
         }
 
     prompt = """
-    You are an AI tasked with analyzing before and after images of civic issues such as potholes, damaged roads, waterlogging, or scattered garbage.
-    The first image is the "before" photo.
-    The second image is the "after" photo.
+    You are a civic issue verification AI. You will receive two images:
+    - Image 1: The "BEFORE" photo (showing the original civic complaint).
+    - Image 2: The "AFTER" photo (submitted as proof of resolution).
+
+    Your task is to carefully analyze both images and produce a structured JSON response.
+
+    INSTRUCTIONS FOR YOUR ANALYSIS:
     
-    Determine:
-    1. 'issue_type': A short string describing what the primary civic issue is (e.g., 'pothole', 'garbage', 'broken_streetlight', 'waterlogging', 'unknown').
-    2. 'resolved': A boolean (true or false) indicating whether the issue appears repaired/resolved. IMPORTANT: If a pothole is filled, even if it is a rough or partial patch, you MUST consider it resolved (true), as the immediate hazard is fixed. Do not mark it as unresolved just because it looks rough.
-    3. 'confidence': A float between 0.0 and 1.0 indicating how confident you are in this assessment. If a pothole is filled (even partially), give a confidence > 0.70.
-    4. 'message': A short human-readable explanation of why you consider it resolved or not.
+    Step 1 — Identify the issue in the BEFORE image:
+    Look at the first image carefully. Identify the specific civic issue (e.g., pothole, garbage dump, broken streetlight, water leak, damaged road, waterlogging, fallen tree, etc.).
     
-    Output strictly as a valid JSON object matching the keys mentioned above, and nothing else.
+    Step 2 — Analyze the AFTER image:
+    Look at the second image. Determine whether the specific issue you identified in the BEFORE image has been fixed/resolved.
+    
+    Step 3 — Compare and decide:
+    - If the issue from the BEFORE image is clearly fixed in the AFTER image → resolved = true
+    - If the AFTER image still shows the same issue, or the scene looks unchanged → resolved = false
+    - IMPORTANT: If a pothole is filled (even if the patch looks rough), consider it resolved. Partial but functional repairs count as resolved.
+    
+    OUTPUT FORMAT — Return ONLY a valid JSON object with these keys:
+    {
+        "issue_type": "<short label like 'pothole', 'garbage', 'water_leak', 'broken_streetlight', 'waterlogging', 'unknown'>",
+        "resolved": <true or false>,
+        "confidence": <float 0.0 to 1.0>,
+        "message": "<structured explanation as described below>"
+    }
+
+    MESSAGE FORMAT RULES — The 'message' field MUST follow this exact structure:
+    
+    Line 1: "BEFORE Image: <describe the specific issue visible in the before image, e.g. 'A large pothole approximately 2 feet wide on the road surface' or 'Garbage scattered across the sidewalk'>."
+    
+    Line 2: "AFTER Image: <describe what the after image shows, e.g. 'The pothole has been filled with asphalt' or 'The area still shows garbage scattered in the same location'>."
+    
+    Line 3 (if resolved=true): "VERDICT: The issue has been resolved. <brief reason, e.g. 'The pothole has been patched and the road surface is restored.'>."
+    Line 3 (if resolved=false): "VERDICT: The issue is NOT resolved. The <issue from before image> is still visible in the after image. <specific explanation of what hasn't changed or what is still wrong>."
+
+    Do NOT output anything other than the JSON object.
     """
 
     try:
