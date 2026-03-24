@@ -8,6 +8,7 @@ const fs = require('fs');
 const path = require('path');
 const priorityService = require('../services/priorityService');
 const wardService = require('../services/wardService');
+const supabase = require('../config/supabase');
 
 const createComplaint = async (req, res) => {
     try {
@@ -20,15 +21,29 @@ const createComplaint = async (req, res) => {
         let imageFile = null;
         let audioFile = null;
 
-        // The route now uses upload.fields
+        // The route now uses upload.fields (memoryStorage)
         if (req.files) {
             if (req.files.image && req.files.image.length > 0) {
                 imageFile = req.files.image[0];
-                image_url = `/uploads/${imageFile.filename}`;
+                const fileName = `complaint-${Date.now()}-${imageFile.originalname}`;
+                const { data, error } = await supabase.storage
+                    .from('complaints')
+                    .upload(fileName, imageFile.buffer, { contentType: imageFile.mimetype });
+                
+                if (error) throw error;
+                const { data: { publicUrl } } = supabase.storage.from('complaints').getPublicUrl(fileName);
+                image_url = publicUrl;
             }
             if (req.files.audio && req.files.audio.length > 0) {
                 audioFile = req.files.audio[0];
-                audio_url = `/uploads/${audioFile.filename}`;
+                const fileName = `audio-${Date.now()}-${audioFile.originalname}`;
+                const { data, error } = await supabase.storage
+                    .from('complaints')
+                    .upload(fileName, audioFile.buffer, { contentType: audioFile.mimetype });
+                
+                if (error) throw error;
+                const { data: { publicUrl } } = supabase.storage.from('complaints').getPublicUrl(fileName);
+                audio_url = publicUrl;
             }
         }
 
@@ -41,8 +56,7 @@ const createComplaint = async (req, res) => {
             if (imageFile) {
                 console.log("Sending image to AI classification...");
                 const formData = new FormData();
-                const imageBuffer = fs.readFileSync(imageFile.path);
-                formData.append('image', imageBuffer, {
+                formData.append('image', imageFile.buffer, {
                     filename: imageFile.originalname,
                     contentType: imageFile.mimetype
                 });
@@ -57,8 +71,7 @@ const createComplaint = async (req, res) => {
             } else if (audioFile) {
                 console.log("Sending audio to AI classification...");
                 const formData = new FormData();
-                const audioBuffer = fs.readFileSync(audioFile.path);
-                formData.append('audio', audioBuffer, {
+                formData.append('audio', audioFile.buffer, {
                     filename: audioFile.originalname,
                     contentType: audioFile.mimetype
                 });
@@ -345,18 +358,15 @@ const verifyResolution = async (req, res) => {
         // Or if 'image_url' is a local file, we would stream it. Let's assume the frontend sends both
         // for simplicity, or we send a dummy if before_image is missing locally.
 
-        // Read file into buffer for more reliable transfer
-        const afterImageBuffer = fs.readFileSync(afterImageFile.path);
-
         // Construct multipart form-data to send to Python server
         const formData = new FormData();
-        formData.append('after_image', afterImageBuffer, {
+        formData.append('after_image', afterImageFile.buffer, {
             filename: afterImageFile.originalname,
             contentType: afterImageFile.mimetype
         });
 
         // Simulating the before image (using the same buffer for now)
-        formData.append('before_image', afterImageBuffer, {
+        formData.append('before_image', afterImageFile.buffer, {
             filename: 'mock_before.jpg',
             contentType: 'image/jpeg'
         });
@@ -395,7 +405,15 @@ const verifyResolution = async (req, res) => {
         console.log(`Determined new status for complaint ${complaint_id}: ${newStatus}`);
 
         // Update Database
-        const afterImageUrl = `/uploads/${afterImageFile.filename}`;
+        const fileName = `resolution-${complaint_id}-${Date.now()}-${afterImageFile.originalname}`;
+        const { data, error } = await supabase.storage
+            .from('complaints')
+            .upload(fileName, afterImageFile.buffer, { contentType: afterImageFile.mimetype });
+        
+        if (error) throw error;
+        const { data: { publicUrl } } = supabase.storage.from('complaints').getPublicUrl(fileName);
+        const afterImageUrl = publicUrl;
+
         const aiFeedback = aiData.message || "AI Verification processed.";
         console.log(`Updating DB for complaint ${complaint_id}: status=${newStatus}, after_image_url=${afterImageUrl}`);
 
